@@ -1,0 +1,29 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: supademo
+      POSTGRES_PASSWORD: supademo_password
+      POSTGRES_DB: supademo
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  app:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3100:3100"
+    environment:
+      DATABASE_URL: "postgresql://supademo:supademo_password@postgres:5432/supademo?schema=public"
+      NEXTAUTH_URL: "http://localhost:3100"
+      NEXTAUTH_SECRET: "supademo-production-secret-change-me"
+      NEXT_PUBLIC_APP_URL: "http://localhost:3100"
+      AUTH_ADMISSION_MODE: "invite_only"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:

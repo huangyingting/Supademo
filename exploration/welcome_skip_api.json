@@ -1,0 +1,200 @@
+[
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "https://app.supademo.com/api/workspace/invite-link",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "https://app.supademo.com/api/workspace/invite/suggestions",
+    "postData": null
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/invite/suggestions",
+    "body": "{\"suggestions\":[]}"
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/invite-link",
+    "body": "{\"inviteLink\":\"https://app.supademo.com/join/I5rirEXZv6jBxnH5KSBorH8jqXm_DuWZ\",\"role\":\"Creator\",\"canRegenerate\":true,\"availability\":{\"available\":true}}"
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-8REWDYCNS9&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xf1&_p=1792320380305&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAGQC&cid=2017917846.1792319904&frm=0&ir=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&en=page_view&tfd=2876",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11293691405/?random=1792320381629&cv=11&fst=1792320381629&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&u_w=1440&u_h=900&url=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&rcb=3&frm=0&tiba=Supademo%20%7C%20Welcome&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=429513660.1792319904&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=429513660.1792319904&dt=Supademo%20%7C%20Welcome&tid=AW-11293691405&en=page_view&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&scrsrc=www.googletagmanager.com&rnd=283461507.1792320382&navt=n&npa=0&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&tft=1792320381657&tfd=2906&tids=AW-11293691405&fmt=8",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-5MLC7M5PH5&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xf1&_p=1792320380305&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAAQ&cid=2017917846.1792319904&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&en=page_view&tfd=2917",
+    "postData": null
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-8REWDYCNS9&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xf1&_p=1792320380305&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAGQC&cid=2017917846.1792319904&frm=0&ir=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&en=page_view&tfd=2876",
+    "body": null
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=429513660.1792319904&dt=Supademo%20%7C%20Welcome&tid=AW-11293691405&en=page_view&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&scrsrc=www.googletagmanager.com&rnd=283461507.1792320382&navt=n&npa=0&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&tft=1792320381657&tfd=2906&tids=AW-11293691405&fmt=8",
+    "body": null
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://www.google.com/rmkt/collect/11293691405/?random=1792320381629&cv=11&fst=1792320381629&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&u_w=1440&u_h=900&url=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&rcb=3&frm=0&tiba=Supademo%20%7C%20Welcome&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=429513660.1792319904&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "body": null
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-5MLC7M5PH5&gtm=45je6ae1v874811045za20ozb9168627911zd9168627911xf1&_p=1792320380305&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAAQ&cid=2017917846.1792319904&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&en=page_view&tfd=2917",
+    "body": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://app.supademo.com/cdn-cgi/rum?",
+    "postData": "{\"startTime\":1792320378752,\"pageloadId\":\"f07bf226-9184-4921-bcba-7b03fd205b4e\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://app.supademo.com/welcome\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"156\",\"bv\":\"156\"},\"memory\":{\"totalJSHeapSize\":123000000,\"usedJSHeapSize\":81400000,\"jsHeapSizeLimit\":3760000000},\"firstPaint\":800,\"firstContentfulPaint\":800,\"timingsV2\":{\"nextHopProtocol\":\"h2\",\"domainLookupStart\":2,\"domainLookupEnd\":3,\"connectStart\":3,\"connectEnd\":13,\"secureConnectionStart\":5,\"requestStart\":13,\"responseStart\":288,\"responseEnd\":306,\"domInteractive\":752,\"domComplete\":4079,\"loadEventStart\":4083,\"loadEventEnd\":4084,\"finalResponseHeadersStart\":288,\"firstInterimResponseStart\":0,\"transferSize\":9422,\"decodedBodySize\":82553},\"siteToken\":\"49936899bf1244c2a6c257f2dc61a1a7\",\"st\":2}"
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://app.supademo.com/cdn-cgi/rum?",
+    "body": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://app.supademo.com/api/onboarding/complete",
+    "postData": "{\"getStartedChoice\":\"ready\"}"
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://app.supademo.com/api/onboarding/complete",
+    "body": "{\"success\":true}"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://app.supademo.com/cdn-cgi/rum?",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://app.supademo.com/cdn-cgi/rum?",
+    "postData": "{\"startTime\":1792320383709,\"pageloadId\":\"6588b18e-8667-4e45-993e-1ce691d452f9\",\"n\":2,\"eventType\":1,\"nt\":\"soft-navigation\",\"location\":\"https://app.supademo.com/home\",\"referrer\":\"https://app.supademo.com/welcome\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":1},\"bi\":{\"be\":\"Blink\",\"bev\":\"156\",\"bv\":\"156\"},\"siteToken\":\"49936899bf1244c2a6c257f2dc61a1a7\",\"st\":2}"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "https://share.cello.so/api/products/app.supademo.com/initialize/v2?language=default",
+    "postData": null
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://app.supademo.com/cdn-cgi/rum?",
+    "body": null
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://app.supademo.com/cdn-cgi/rum?",
+    "body": null
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://share.cello.so/api/products/app.supademo.com/initialize/v2?language=default",
+    "body": "{\"referrerId\":\"aac500ad-91ff-4996-915b-809436de379c\",\"notifications\":[],\"activeAnnouncement\":null,\"totalEarnedRewards\":\"\",\"views\":0,\"unreadViewsCount\":0,\"campaignId\":\"ab_campaign_b\",\"onboardingShown\":false,\"hasCreditNotes\":false,\"termsAcceptedAt\":null,\"hasPaymentDetails\":false,\"ucc\":\"wMVNtaY6tmH\",\"shareLinks\":{\"twitter\":\"https://supademo.cello.so/wMVNtaY6tmH\",\"email\":\"https://supademo.cello.so/wMVNtaY6tmH\",\"powerplay\":\"https://supademo.cello.so/wMVNtaY6tmH\",\"linkedin\":\"https://supademo.cello.so/wMVNtaY6tmH\"},\"activeCallout\":null,\"productConfig\":{\"productName\":\"Supademo\",\"language\":\"en\",\"shareMethods\":[\"twitter\",\"email\",\"powerplay\",\"linkedin\"],\"payoutMethods\":[\"VENMO\",\"PAYPAL\"],\"campaignsEnabled\":true,\"styles\":{\"primaryColor\":\"#554FE7\",\"fab\":{\"positionTop\":\"70px\",\"positionRight\":\"0px\",\"positionBottom\":\"unset\",\"positionLeft\":\"unset\",\"iconColor\":\"#FFFFFF\",\"bgColor\":\"#16a34a\",\"notificationBubbleColor\":\"#FF0000\",\"outline\":\"edge\",\"announcementPosition\":\"left\",\"border\":\"1px solid #16a34a\",\"borderFocus\":\"3px solid #eee\"},\"wrapper\":{\"positionTop\":\"70px\",\"positionRight\":\"70px\",\"positionBottom\":\"unset\",\"positionLeft\":\"unset\"},\"zIndex\":\"999999999\",\"announcement\":{\"bgColor\":\"white\",\"iconColor\":\"#554FE7\",\"textColor\":\"black\",\"dismissEnabled\":true,\"dismissButtonColor\":\"grey\",\"defaultPosition\":\"bottom\",\"defaultPositionOffset\":{\"x\":\"-10px\",\"y\":\"0px\"}},\"onboarding\":{\"primaryColor\":\"#383838\",\"secondaryColor\":\"#554FE7\"},\"darkModeOverrides\":{\"primaryColor\":\"#eee8ff\",\"fab\":{\"bgColor\":\"#16a34a\",\"iconColor\":\"#FFFFFF\",\"notificationBubbleColor\":\"#FF0000\"}}},\"howItWorksEnabled\":true,\"modalWidget\":true,\"paymentDetailsEnabled\":true,\"qrCodeEnabled\":true,\"hideDefaultLauncher\":false,\"menuIntegration\":{\"customLauncherSelector\":\"\",\"badge\":{\"top\":\"-2px\",\"left\":\"unset\",\"bottom\":\"unset\",\"right\":\"-2px\"},\"announcement\":{\"selector\":\"\",\"position\":\"bottom\",\"positionOffset\":{\"x\":\"0px\",\"y\":\"0px\"}}},\"mobileConfig\":{\"showFullWidget\":false,\"showEnhancedView\":false,\"viewNotificationIconUrl\":null,\"rewardNotificationIconUrl\":null},\"disableClickOutsideOnModalWidget\":true,\"bannerPersonalisation\":true,\"viewsConfig\":{\"powerUserThreshold\":null,\"powerUserBurstThreshold\":1,\"userBurstThreshold\":1},\"focusFirstControlOnOpen\":true},\"campaignConfig\":{\"revenuePercentage\":0.2,\"transactionRewardValue\":0,\"transactionRewardType\":\"percentage\",\"rewardCap\":200,\"isZeroRewardCampaign\":false,\"newUserDiscountType\":\"standard\",\"newUserDiscountMonth\":3,\"newUserDiscountPercentage\":0.3,\"primaryCurrency\":\"USD\"},\"transactionConfig\":{\"payoutDelay\":0},\"styles\":{\"primaryColor\":\"#554FE7\",\"fab\":{\"positionTop\":\"70px\",\"positionRight\":\"0px\",\"positionBottom\":\"unset\",\"positionLeft\":\"unset\",\"iconColor\":\"#FFFFFF\",\"bgColor\":\"#16a34a\",\"notificationBubbleColor\":\"#FF0000\",\"outline\":\"edge\",\"announcementPosition\":\"left\",\"border\":\"1px solid #16a34a\",\"borderFocus\":\"3px solid #eee\"},\"wrapper\":{\"positionTop\":\"70px\",\"positionRight\":\"70px\",\"positionBottom\":\"unset\",\"positionLeft\":\"unset\"},\"zIndex\":\"999999999\",\"announcement\":{\"bgColor\":\"white\",\"iconColor\":\"#554FE7\",\"textColor\":\"black\",\"dismissEnabled\":true,\"dismissButtonColor\":\"grey\",\"defaultPosition\":\"bottom\",\"defaultPositionOffset\":{\"x\":\"-10px\",\"y\":\"0px\"}},\"onboarding\":{\"primaryColor\":\"#383838\",\"secondaryColor\":\"#554FE7\"},\"darkModeOverrides\":{\"primaryColor\":\"#eee8ff\",\"fab\":{\"bgColor\":\"#16a34a\",\"iconColor\":\"#FFFFFF\",\"notificationBubbleColor\":\"#FF0000\"}}},\"tokenTTL\":-1,\"signalToken\":\"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwcm9kdWN0SWQiOiJhcHAuc3VwYWRlbW8uY29tIiwicmVmZXJyZXJJZCI6ImFhYzUwMGFkLTkxZmYtNDk5Ni05MTViLTgwOTQzNmRlMzc5YyIsImlhdCI6MTc5MjMyMDM4NSwiYXVkIjoic2lnbmFsIn0.yen6U6en8c3Rb97B8mJoO8F35DJMddsN258sJI6LO2dV3Lfp73d_GNkZ1lxZwTAy5uCkElqqpvzLWczUFxYxrw\",\"productUserDetailsHash\":{\"firstName\":null,\"lastName\":null,\"email\":null,\"fullName\":null,\"customAttributes\":null},\"graceTime\":0,\"serverTime\":\"2026-10-18T10:46:25.871Z\",\"hasStripePayoutMethod\":false,\"hasStripeOnboardingCompleted\":false,\"widgetImmediateLabels\":{\"fab\":{\"text\":\"Earn {{rewardCap}}\",\"text_fixed\":\"Earn {{newPurchaseBon"
+  },
+  {
+    "type": "request",
+    "method": "GET",
+    "url": "https://share.cello.so/api/signal/products/app.supademo.com/notifications/sse/aac500ad-91ff-4996-915b-809436de379c/",
+    "postData": null
+  },
+  {
+    "type": "request",
+    "method": "PATCH",
+    "url": "https://share.cello.so/api/products/app.supademo.com/referrers/aac500ad-91ff-4996-915b-809436de379c/",
+    "postData": "{\"email\":\"powlowskijoshuah@gmail.com\",\"firstName\":\"Joshuah\",\"lastName\":\"Powlowski\",\"fullName\":\"Joshuah Powlowski\"}"
+  },
+  {
+    "type": "response",
+    "status": 200,
+    "url": "https://share.cello.so/api/products/app.supademo.com/referrers/aac500ad-91ff-4996-915b-809436de379c/",
+    "body": null
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-5MLC7M5PH5&gtm=45je6ae1v874811045za20gzb9168627911zd9168627911xf1&_p=1792320380305&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAAQ&ae=a&cid=2017917846.1792319904&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&_s=2&tfd=7918",
+    "postData": "en=scroll&epn.percent_scrolled=90&_et=10\r\nen=page_view&_et=3807&dl=https%3A%2F%2Fapp.supademo.com%2Fhome&dr=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Create%20and%20Share%20Interactive%20Product%20Demos%20for%20Free%20%7C%20Supademo"
+  },
+  {
+    "type": "request",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-8REWDYCNS9&gtm=45je6ae1v874811045za20gzb9168627911zd9168627911xf1&_p=1792320380305&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAGQC&ae=a&cid=2017917846.1792319904&frm=0&ir=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&_s=2&tfd=7921",
+    "postData": "en=scroll&epn.percent_scrolled=90&_et=44\r\nen=page_view&_et=3808&dl=https%3A%2F%2Fapp.supademo.com%2Fhome&dr=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Create%20and%20Share%20Interactive%20Product%20Demos%20for%20Free%20%7C%20Supademo"
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-5MLC7M5PH5&gtm=45je6ae1v874811045za20gzb9168627911zd9168627911xf1&_p=1792320380305&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAAQ&ae=a&cid=2017917846.1792319904&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&_s=2&tfd=7918",
+    "body": null
+  },
+  {
+    "type": "response",
+    "status": 204,
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-8REWDYCNS9&gtm=45je6ae1v874811045za20gzb9168627911zd9168627911xf1&_p=1792320380305&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAGQC&ae=a&cid=2017917846.1792319904&frm=0&ir=1&pscdl=noapi&rcb=3&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123322201&sid=1792319904&sct=1&seg=1&dl=https%3A%2F%2Fapp.supademo.com%2Fwelcome%3Fstage%3DgetStartedCreate&dt=Supademo%20%7C%20Welcome&_s=2&tfd=7921",
+    "body": null
+  }
+]

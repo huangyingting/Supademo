@@ -1,0 +1,1733 @@
+{
+  "/settings/brand": {
+    "url": "https://app.supademo.com/settings/brand",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Branding"
+      },
+      {
+        "tag": "H2",
+        "text": "Watermark CTA"
+      },
+      {
+        "tag": "H3",
+        "text": "Enable"
+      },
+      {
+        "tag": "H3",
+        "text": "Logo"
+      },
+      {
+        "tag": "H3",
+        "text": "Text"
+      },
+      {
+        "tag": "H3",
+        "text": "Link"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      },
+      {
+        "tag": "H2",
+        "text": "Share page logo"
+      },
+      {
+        "tag": "H3",
+        "text": "Upload Logo"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      },
+      {
+        "tag": "H2",
+        "text": "Favicon"
+      },
+      {
+        "tag": "H3",
+        "text": "Upload Favicon"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      },
+      {
+        "tag": "H2",
+        "text": "Share Page Button"
+      },
+      {
+        "tag": "H3",
+        "text": "Text"
+      },
+      {
+        "tag": "H3",
+        "text": "Link"
+      },
+      {
+        "tag": "H3",
+        "text": "Colors"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Read only",
+      "Enable watermark",
+      "Upload",
+      "Watermark logo",
+      "Watermark text",
+      "Watermark link",
+      "Upload",
+      "Upload",
+      "Create Supademo",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Created on My Compan",
+        "value": "Created on Supademo"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "",
+        "value": "https://supademo.com"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Try My Company",
+        "value": "Create Supademo"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "https://example.com",
+        "value": "https://supademo.com"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "#000000",
+        "value": "#4f46e5"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "#000000",
+        "value": "#fff"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nBranding\n\nManage the branding shown across content pages.\n\nWatermark CTA\nRead only\n\nShown in the bottom-right of public content pages.\n\nEnable\nEnable watermark\nLogo\n\nPNG, JPG up to 1MB. 32x32 to 256x256 px.\n\nUpload\nWatermark logo\nText\n\nText shown beside the logo. Max 20 characters.\n\nWatermark text\nLink\n\nWhere the watermark should point.\n\nWatermark link\nPreview\nCreated on Supademo\nShare page logo\n\nShown in the top-left of public content pages.\n\nUpload Logo\nUpload\nPreview\nFavicon\n\nShown in browser tabs for public content pages.\n\nUpload Favicon\n\nPNG only. Square image, 32x32 to 256x256 px.\n\nUpload\nPreview\nYour Demo Title\nShare Page Button\n\nShown in the header of public content pages.\n\nText\n\nMax 50 characters.\n\nLink\n\nWhere the button should point.\n\nColors\n\nBackground and text.\n\nBackground\n\nText\n\nPreview\n\nHeader placement.\n\nCreate Supademo\nWatermark\nShare page logo\nFavicon\nShare page button\nNew Chat\n\nWhat are we working on today?\nWhat are we working on today?\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/integrations": {
+    "url": "https://app.supademo.com/settings/integrations",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Integrations"
+      },
+      {
+        "tag": "H2",
+        "text": "Available"
+      },
+      {
+        "tag": "H3",
+        "text": "HubSpot"
+      },
+      {
+        "tag": "H3",
+        "text": "Salesforce"
+      },
+      {
+        "tag": "H3",
+        "text": "Slack"
+      },
+      {
+        "tag": "H3",
+        "text": "Google Analytics"
+      },
+      {
+        "tag": "H3",
+        "text": "Zapier"
+      },
+      {
+        "tag": "H3",
+        "text": "Google Tag Manager"
+      },
+      {
+        "tag": "H3",
+        "text": "Marketo"
+      },
+      {
+        "tag": "H3",
+        "text": "Seismic"
+      },
+      {
+        "tag": "H3",
+        "text": "Webhook"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Connect",
+      "Learn more",
+      "Connect",
+      "Learn more",
+      "Connect",
+      "Learn more",
+      "Connect",
+      "Learn more",
+      "Connect",
+      "Learn more",
+      "Connect",
+      "Connect",
+      "Learn more",
+      "Connect",
+      "Connect",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nIntegrations\n\nConnect third-party services to sync data and extend your workspace.\n\nAvailable\nHubSpot\nHubSpot\n\nCRM\n\nCollect, send, and sync engagement and lead data to HubSpot.\n\nConnect\nLearn more\nSalesforce\nSalesforce\n\nCRM\n\nAutomatically collect and sync lead and engagement data to Salesforce.\n\nConnect\nLearn more\nSlack\nSlack\n\nCommunication\n\nSurface engaged viewers and high-intent leads directly in your Slack channel.\n\nConnect\nLearn more\nGoogle Analytics\nGoogle Analytics\n\nAnalytics\n\nTrack conversions, engagement, and content performance directly within Google Analytics.\n\nConnect\nLearn more\nZapier\nZapier\n\nAutomation\n\nUse our Zapier integration to push lead data into your existing workflows and tools.\n\nConnect\nLearn more\nGoogle Tag Manager\nGoogle Tag Manager\n\nAnalytics\n\nTrack conversions and events through Google Tag Manager for comprehensive analytics and marketing pixel management.\n\nConnect\nMarketo\nMarketo\n\nMarketing Automation\n\nSend leads and engagement data directly to Marketo.\n\nConnect\nLearn more\nSeismic\nSeismic\n\nSales Enablement\n\nPublish Supademo content into Seismic Library as URL content.\n\nConnect\nWebhook\nWebhook\n\nAutomation\n\nSend real-time, signed demo and showcase events directly to any endpoint you control.\n\nConnect\nNew Chat\n\nWhat are we working on today?\nWhat are we working on today?\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/billing": {
+    "url": "https://app.supademo.com/settings/billing",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Billing"
+      },
+      {
+        "tag": "H2",
+        "text": "Growth plan"
+      },
+      {
+        "tag": "H3",
+        "text": "Upgrade to Growth"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      },
+      {
+        "text": "Subscription",
+        "href": null
+      },
+      {
+        "text": "Agent credits",
+        "href": null
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Billing info & invoices",
+      "View all plans",
+      "Upgrade now",
+      "Guided interactive demos",
+      "Guided HTML demos",
+      "Sandbox demos",
+      "Video recording (4K)",
+      "Showcase collections",
+      "AI Demo AgentAdd on",
+      "Route HubNew",
+      "AI voice cloning",
+      "Demo versioning",
+      "White-glove onboarding",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nBilling\n\nManage your subscription and agent credits.\n\nBilling info & invoices\nSubscription\nAgent credits\nGrowth plan\nTrial\n\n$450/mo, includes 5 creators\n\nPaid seats\n\n5\n\nTrial ends\n\n14 days left\n\nUpgrade to Growth\n\n$350/mo, billed annually, includes 5 creators\n\nView all plans\nUpgrade now\nGuided interactive demos\nGuided HTML demos\nSandbox demos\nVideo recording (4K)\nShowcase collections\nAI Demo AgentAdd on\nRoute HubNew\nAI voice cloning\nDemo versioning\nWhite-glove onboarding\nAll premium features\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/profile": {
+    "url": "https://app.supademo.com/settings/profile",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Profile"
+      },
+      {
+        "tag": "H2",
+        "text": "Name & Photo"
+      },
+      {
+        "tag": "H3",
+        "text": "Profile photo"
+      },
+      {
+        "tag": "H3",
+        "text": "Name"
+      },
+      {
+        "tag": "H2",
+        "text": "Contact Info"
+      },
+      {
+        "tag": "H3",
+        "text": "Email"
+      },
+      {
+        "tag": "H2",
+        "text": "Account Deletion"
+      },
+      {
+        "tag": "H3",
+        "text": "Request Account Deletion"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Upload photo",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Full name",
+        "value": "Joshuah Powlowski"
+      },
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "placeholder": "Email address",
+        "value": "powlowskijoshuah@gmail.com"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nProfile\n\nManage your personal profile details across workspaces.\n\nName & Photo\nProfile photo\n\nShown to teammates and in shared workspace activity.\n\nUpload photo\nName\n\nUsed for your profile and author attribution.\n\nContact Info\nEmail\n\nYour sign-in email cannot be changed from settings.\n\nAccount Deletion\nRequest Account Deletion\n\nRequest deletion of your account data and associated content.\n\nRequest deletion\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/demo-player": {
+    "url": "https://app.supademo.com/settings/demo-player",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Supademo"
+      },
+      {
+        "tag": "H2",
+        "text": "Hotspots"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      },
+      {
+        "tag": "H2",
+        "text": "Chapters"
+      },
+      {
+        "tag": "H3",
+        "text": "Introduction Chapter"
+      },
+      {
+        "tag": "H2",
+        "text": "Create a Supademo in minutes"
+      },
+      {
+        "tag": "H3",
+        "text": "Call-to-Action Chapter"
+      },
+      {
+        "tag": "H2",
+        "text": "Enjoyed the guided demo?"
+      },
+      {
+        "tag": "H2",
+        "text": "Font Settings"
+      },
+      {
+        "tag": "H3",
+        "text": "Font Family"
+      },
+      {
+        "tag": "H3",
+        "text": "Custom Fonts"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      },
+      {
+        "tag": "H2",
+        "text": "Background Music"
+      },
+      {
+        "tag": "H3",
+        "text": "Background Music"
+      },
+      {
+        "tag": "H3",
+        "text": "Custom Music"
+      },
+      {
+        "tag": "H2",
+        "text": "Player Controls"
+      },
+      {
+        "tag": "H3",
+        "text": "Browser Bar"
+      },
+      {
+        "tag": "H3",
+        "text": "Progress Bar"
+      },
+      {
+        "tag": "H3",
+        "text": "Replay on last step"
+      },
+      {
+        "tag": "H3",
+        "text": "Fullscreen"
+      },
+      {
+        "tag": "H3",
+        "text": "Open in New Tab"
+      },
+      {
+        "tag": "H3",
+        "text": "Preview"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Edit",
+      "Edit",
+      "Get Started",
+      "Replay",
+      "Edit",
+      "Learn More",
+      "Replay",
+      "Default",
+      "Upload",
+      "No background music",
+      "Upload",
+      "Light Browser Bar",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null,
+        "value": "Default"
+      },
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null,
+        "value": "none"
+      },
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null,
+        "value": "lightmode"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nSupademo\n\nManage how viewers experience your content player.\n\nHotspots\nPreview\n\nCurrent hotspot preview style.\n\nEdit\nThis is an example hotspot. Try out the settings to create your hotspot.\nChapters\nIntroduction Chapter\nEnabled\n\nAutomatically added to the start of new extension recordings.\n\nEdit\nCreate a Supademo in minutes\nHere's a description of the Supademo\nGet Started\nReplay\nCall-to-Action Chapter\nEnabled\n\nShown at the end of demos.\n\nEdit\nEnjoyed the guided demo?\nLearn more about our features and benefits on our website!\nLearn More\nReplay\nFont Settings\nFont Family\n\nApplied to hotspot, chapter, and button text in demos.\n\nDefault\n\nDefault\nRoboto\nOpen Sans\nPoppins\nMontserrat\nLato\nNunito\nMerriweather\nIBM Plex Sans Condensed\nIBM Plex Serif\nSource Sans 3\nOutfit\nPublic Sans\nWork Sans\nCustom Fonts\n\nUpload your own font files.\n\n0 custom fonts\n\nUpload\nPreview\n\nHotspot and button text.\n\nThis is an example hotspot. Try out the settings to create your hotspot.\nBackground Music\nBackground Music\n\nTrack played during demos.\n\nNo background music\n\nNo background music\nUpbeat Elevator\nAmbient Jazz\nGroovy Funk\nMotivational Background\nCalm Soul\nGroovy Instrumental\nPlayful Pop\nUpbeat Pop\nEmotional Piano\nEnergetic Rock\nCustom Music\n\nUpload your own audio files.\n\n0 custom tracks\n\nUpload\nPlayer Controls\nBrowser Bar\n\nShow a browser bar above the demo.\n\nLight Browser Bar\n\nLight Browser Bar\nDark Browser Bar\nNone\nProgress Bar\n\nShow progress at the bottom of the demo.\n\nReplay on last step\n\nIf enabled, a replay button is shown on the last step, letting viewers restart the demo from the beginning.\n\nFullscreen\n\nIf enabled, a fullscreen button is shown in the player controls, letting viewers expand the demo to fill their screen.\n\nOpen in New Tab\n\nShows an external-link icon on embeds so viewers can open the demo in a larger window.\n\nPreview\n\nBrowser bar and playback controls.\n\nYour demo\nPlayback controls preview\nView controls preview\nHotspots\nChapters\nFonts\nBackground Music\nPlayer Controls\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/custom-domain": {
+    "url": "https://app.supademo.com/settings/custom-domain",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Custom Domain"
+      },
+      {
+        "tag": "H2",
+        "text": "Custom Domain"
+      },
+      {
+        "tag": "H3",
+        "text": "Domain"
+      },
+      {
+        "tag": "H3",
+        "text": "DNS Record"
+      },
+      {
+        "tag": "H3",
+        "text": "Root Redirect"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Connect",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "guides.myproduct.com",
+        "value": ""
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nCustom Domain\n\nUse your own domain across public content pages, including demos, showcases, videos, and routes.\n\nCustom Domain\n\nNo domain connected\n\nEnter a subdomain to start setup.\n\nNot connected\n1\nDomain\n\nUse a subdomain you own for public content pages.\n\nConnect\n2\nDNS Record\n\nAdd this CNAME record in your DNS provider.\n\nDNS details appear after the domain is connected.\n3\nRoot Redirect\n\nSend the root domain to a homepage or showcase.\n\nRoot redirect becomes available after DNS is verified.\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/general": {
+    "url": "https://app.supademo.com/settings/general",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "General"
+      },
+      {
+        "tag": "H2",
+        "text": "Workspace Name"
+      },
+      {
+        "tag": "H3",
+        "text": "Name"
+      },
+      {
+        "tag": "H2",
+        "text": "Default SEO Settings"
+      },
+      {
+        "tag": "H3",
+        "text": "Description and Steps"
+      },
+      {
+        "tag": "H3",
+        "text": "Author"
+      },
+      {
+        "tag": "H3",
+        "text": "Search Engine Indexing"
+      },
+      {
+        "tag": "H2",
+        "text": "Workspace emails"
+      },
+      {
+        "tag": "H3",
+        "text": "Trackable links"
+      },
+      {
+        "tag": "H3",
+        "text": "Monthly recap emails"
+      },
+      {
+        "tag": "H3",
+        "text": "Invoice emails"
+      },
+      {
+        "tag": "H3",
+        "text": "Comments"
+      },
+      {
+        "tag": "H3",
+        "text": "Mentions"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Update who receives it",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": null,
+        "value": "My Company"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nGeneral\n\nManage workspace details and email preferences.\n\nWorkspace Name\nName\n\nShown across the workspace.\n\nDefault SEO Settings\nDescription and Steps\n\nShow demo description and steps on the share page.\n\nAuthor\n\nShow the author on demo pages.\n\nSearch Engine Indexing\n\nAllow search engines to index demos.\n\nWorkspace emails\nTrackable links\n\nSend email notifications for trackable and personalized link views.\n\nMonthly recap emails\n\nSend monthly stats summaries to the workspace.\n\nInvoice emails\n\nReceive an invoice via email after a successful transaction. \nUpdate who receives it\n\nComments\n\nReceive email notifications when someone comments on your work.\n\nMentions\n\nReceive email notifications when someone mentions you in a comment.\n\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/members": {
+    "url": "https://app.supademo.com/settings/members",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Members"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      },
+      {
+        "text": "Members",
+        "href": null
+      },
+      {
+        "text": "Pending invites",
+        "href": null
+      },
+      {
+        "text": "Requests",
+        "href": null
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Roles",
+      "Invite members",
+      "All roles",
+      "Change role",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": null,
+        "placeholder": "Search by name or email",
+        "value": ""
+      },
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null,
+        "value": "all"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nMembers\n\nReview your team, roles, and workspace access in one place.\n\nRoles\nInvite members\n\nAdmins\n\n1\n\nBilling Admins\n\n0\n\nCreators\n\n0\n\nViewers\n\n0\n\nYou have 4 unused licenses on your Growth plan. Add new team members as Creators or change existing Viewers to Creators to use them.\nMembers\nPending invites\nRequests\n\nAll roles\n\nAll roles\nAdmin\nCreator\nBilling Admin\nViewer\nName\n\t\nEmail\n\t\nRole\n\t\n\nJoshuah Powlowski\tpowlowskijoshuah@gmail.com\t\nAdmin\n\t\nChange role\n\t\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/api": {
+    "url": "https://app.supademo.com/settings/api",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "API"
+      },
+      {
+        "tag": "H2",
+        "text": "Workspace API Key"
+      },
+      {
+        "tag": "H2",
+        "text": "Connected apps"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Generate API key",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nAPI\n\nManage workspace API access and apps connected to your account.\n\nWorkspace API Key\n\nAuthenticate requests to this workspace's API.\n\nNo API key generated yet\nGenerate API key\nConnected apps\n\nTokens that apps like Claude and ChatGPT use to access this workspace on your behalf.\n\nNo connected apps yet\n\nWhen you authorize an app to use this workspace, it will appear here.\n\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/security": {
+    "url": "https://app.supademo.com/settings/security",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Security"
+      },
+      {
+        "tag": "H2",
+        "text": "Security Settings"
+      },
+      {
+        "tag": "H3",
+        "text": "Hotspot Enhancement with AI"
+      },
+      {
+        "tag": "H3",
+        "text": "GDPR Tracking"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nSecurity\n\nManage AI enhancement and workspace tracking controls.\n\nSecurity Settings\nHotspot Enhancement with AI\n\nUse AI to improve hotspot descriptions during extension capture.\n\nGDPR Tracking\n\nControl analytics tracking for demos and showcases. Enable after viewers provide consent for non-essential cookies or similar tracking technologies. Learn more.\n\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/demo-versioning": {
+    "url": "https://app.supademo.com/settings/demo-versioning",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Demo Versioning"
+      },
+      {
+        "tag": "H2",
+        "text": "Demo Versioning"
+      },
+      {
+        "tag": "H3",
+        "text": "Enable demo versioning"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "value": "on"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nDemo Versioning\n\nControl version history and who can publish demos.\n\nDemo Versioning\nEnable demo versioning\n\nKeep a restorable version each time an authorized publisher publishes a demo.\n\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/tags": {
+    "url": "https://app.supademo.com/settings/tags",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Tags"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Create tag",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nTags\n\nOrganize demos and showcases with reusable workspace tags.\n\nCreate tag\nTag\n\t\nDemos\n\t\nShowcases\n\t\n\n\nGetting Started\n\t0\t0\t\n\t\n\nNew Hire\n\t0\t0\t\n\t\n\nOnboarding\n\t0\t0\t\n\t\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  },
+  "/settings/pronunciation-library": {
+    "url": "https://app.supademo.com/settings/pronunciation-library",
+    "title": "Workspace settings",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Pronunciation Library"
+      },
+      {
+        "tag": "H2",
+        "text": "No terms yet"
+      }
+    ],
+    "tabs": [
+      {
+        "text": "Branding",
+        "href": "/settings/brand"
+      },
+      {
+        "text": "Supademo",
+        "href": "/settings/demo-player"
+      },
+      {
+        "text": "Custom Domain",
+        "href": "/settings/custom-domain"
+      },
+      {
+        "text": "General",
+        "href": "/settings/general"
+      },
+      {
+        "text": "Members",
+        "href": "/settings/members"
+      },
+      {
+        "text": "Billing",
+        "href": "/settings/billing"
+      },
+      {
+        "text": "API",
+        "href": "/settings/api"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/security"
+      },
+      {
+        "text": "Demo Versioning",
+        "href": "/settings/demo-versioning"
+      },
+      {
+        "text": "Integrations",
+        "href": "/settings/integrations"
+      },
+      {
+        "text": "Profile",
+        "href": "/settings/profile"
+      },
+      {
+        "text": "Tags",
+        "href": "/settings/tags"
+      },
+      {
+        "text": "Pronunciation Library",
+        "href": "/settings/pronunciation-library"
+      }
+    ],
+    "buttons": [
+      "Search settings\n⌘K",
+      "Add term",
+      "New Chat",
+      "What can I personalize?",
+      "Sync demos to my brand",
+      "Clean up my tags"
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "value": ""
+      }
+    ],
+    "bodyText": "Settings\n\nSearch settings\n⌘K\n\nTheme\n\nBranding\nSupademo\nCustom Domain\n\nAdministration\n\nGeneral\nMembers\nBilling\nAPI\nSecurity\nDemo Versioning\nIntegrations\n\nAccount\n\nProfile\n\nContent Structure\n\nTags\nPronunciation Library\nPronunciation Library\n\nControl how workspace-specific terms are recognized and spoken.\n\nAdd term\nNo terms yet\n\nAdd workspace terms to control how voiceovers pronounce names, acronyms, and product language.\n\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nWhat can I personalize?\nSync demos to my brand\nClean up my tags\n\nDrop files to attach"
+  }
+}

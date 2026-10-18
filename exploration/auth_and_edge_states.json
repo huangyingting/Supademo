@@ -1,0 +1,57 @@
+{
+  "99_auth_login": {
+    "url": "https://app.supademo.com/login",
+    "title": "Supademo | Log in",
+    "text": "Welcome back!\nWork email\n\nUse an organization email to easily collaborate with teammates\n\nContinue\nor continue with\nGoogle\nMicrosoft\nSSO\n\nNew to Supademo? Sign up\n\nBy continuing, you acknowledge that you understand and agree to the Terms & Conditions and Privacy Policy",
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "placeholder": "name@company.com",
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "placeholder": null,
+        "text": "Continue"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "placeholder": null,
+        "text": "Google"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "placeholder": null,
+        "text": "Microsoft"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "placeholder": null,
+        "text": "SSO"
+      }
+    ]
+  },
+  "100_auth_register": {
+    "url": "https://app.supademo.com/register",
+    "title": "File not found | Supademo",
+    "text": "Oops! Page Not Found\n\nWe can't seem to find the page you're looking for. It might have been moved, renamed, or could be temporarily unavailable.\n\nBack to home",
+    "inputs": []
+  },
+  "101_auth_join_valid": {
+    "url": "https://app.supademo.com/join/I5rirEXZv6jBxnH5KSBorH8jqXm_DuWZ",
+    "title": "Join My Company on Supademo",
+    "text": "Join My Company\n\n1 member is already collaborating here.\n\nYou'll join as a Creator.\n\nSign in to join\n\nNew here? Create an account",
+    "inputs": []
+  },
+  "102_auth_join_invalid": {
+    "url": "https://app.supademo.com/join/invalid_token_edge_case",
+    "title": "Join workspace",
+    "text": "This invite link isn't valid\n\nThe link may have been revoked or replaced. Ask a workspace admin for a new one.",
+    "inputs": []
+  }
+}

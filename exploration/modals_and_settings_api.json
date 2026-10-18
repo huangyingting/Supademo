@@ -1,0 +1,142 @@
+[
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getdemos?page=0&limit=20&type=shared&from=demos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Demo",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Demo",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getdemos?page=0&limit=20&type=shared&from=demos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Demo",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getdemos?page=0&limit=20&type=shared&from=demos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Demo",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getdemos?page=0&limit=20&type=shared&from=demos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  }
+]

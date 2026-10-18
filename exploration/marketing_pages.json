@@ -1,0 +1,1486 @@
+{
+  "90_mkt_home": {
+    "url": "https://supademo.com/",
+    "title": "Supademo: AI Interactive Product Demos",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "The AI demo platform for the full customer journey"
+      },
+      {
+        "tag": "H2",
+        "text": "Trusted by 200,000+ professionals at 3,000+ organizations"
+      },
+      {
+        "tag": "H2",
+        "text": "Grow revenue and drive product adoption"
+      },
+      {
+        "tag": "H3",
+        "text": "Convert"
+      },
+      {
+        "tag": "H3",
+        "text": "Qualify"
+      },
+      {
+        "tag": "H3",
+        "text": "Close"
+      },
+      {
+        "tag": "H3",
+        "text": "Onboard"
+      },
+      {
+        "tag": "H3",
+        "text": "Train"
+      },
+      {
+        "tag": "H2",
+        "text": "Everything you need to show, sell, and teach your product"
+      },
+      {
+        "tag": "H3",
+        "text": "Interactive & Sandbox Demos"
+      },
+      {
+        "tag": "H3",
+        "text": "Screen & Video Recordings"
+      },
+      {
+        "tag": "H3",
+        "text": "Step-by-step SOPs"
+      },
+      {
+        "tag": "H3",
+        "text": "AI Demo Agents"
+      },
+      {
+        "tag": "H2",
+        "text": "Build, share, and track demos in the tools you already use"
+      },
+      {
+        "tag": "H3",
+        "text": "Supademo MCP"
+      },
+      {
+        "tag": "H3",
+        "text": "AI Command"
+      },
+      {
+        "tag": "H2",
+        "text": "Real outcomes from teams using Supademo"
+      },
+      {
+        "tag": "H2",
+        "text": "Latest from the blog"
+      },
+      {
+        "tag": "H2",
+        "text": "One platform. Every way you show your product."
+      },
+      {
+        "tag": "H3",
+        "text": "Ask AI about Supademo"
+      },
+      {
+        "tag": "H3",
+        "text": "Product"
+      },
+      {
+        "tag": "H3",
+        "text": "Roles"
+      },
+      {
+        "tag": "H3",
+        "text": "Industries"
+      },
+      {
+        "tag": "H3",
+        "text": "Resources"
+      },
+      {
+        "tag": "H3",
+        "text": "Tools"
+      },
+      {
+        "tag": "H3",
+        "text": "Company"
+      },
+      {
+        "tag": "H3",
+        "text": "Customers"
+      },
+      {
+        "tag": "H3",
+        "text": "Downloads"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "AI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts",
+        "href": "/ai/command"
+      },
+      {
+        "text": "Product Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "Agentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "Supademo",
+        "href": "/"
+      },
+      {
+        "text": "Platform",
+        "href": "/features"
+      },
+      {
+        "text": "Solutions",
+        "href": "/solutions"
+      },
+      {
+        "text": "Resources",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.supademo.com/login"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://app.supademo.com/signup"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      }
+    ],
+    "bodyText": "Skip to content\nAI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts\nProduct Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo\nAgentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time\nSupademo\nPlatform\nSolutions\nResources\nPricing\nLogin\nBook a demo\nStart for free\nAsk AI\nThe AI demo platform for the full customer journey\n\nWin more buyers, onboard customers faster, and reduce repetitive training. Create interactive demos, AI demo agents, and step-by-step guides in minutes.\n\nGet Supademo for free\nMobile\nSandbox\nInteractive Demo\nAI Demo Agent\nVideo Demo\nRoute Hub\nDemo Hub\n\nMobile Demos: Capture and showcase your mobile product flows with touch-friendly, tap-by-tap demos.\n\nSandbox Demos: Let users freely explore an interactive demo environment without provisioning accounts, risking real data, or relying on staging/prod environments.\n\nGuided Interactive Demos: Use HTML or screenshot & video demos to guide users through curated, step-by-step experiences that highlight key features or workflows.\n\nAI Demo Agent: Deploy a 24/7 AI agent that runs discovery, qualifies buyers, and surfaces the right demos, videos, and proof assets in real time.\n\nVideos: Record your screen and camera in up to 4K, then customize the zoom, background, and cursor. Trim, cut, crop, or change playback speed in the editor, and share the video as a trackable link.\n\nRoute Hub: Deliver the right demos, videos, decks, and resources to each viewer with visual routing workflows, all from a single link.\n\nDemo Hub: Centralize, organize, and trigger interactive demos inside your product to educate users and drive self-serve adoption.\n\nSupademo AI Demo Agent answering a buyer's questions next to the Supademo analytics dashboard\n\nHi Satya, I'm your AI demo agent. I can walk you through Supademo with live interactive demos and answer any questions. What brought you here today?\n\nLooking to learn more about onboarding use cases. How long does it take to make a demo?\n\nCreating a demo takes about two minutes. You capture your product with the Chrome extension, and Supademo turns it into an interactive walkthrough with hotspots and annotations automatically. Here's a quick demo.\n\nHow are you creating demos today at Microsoft?\n\nInteractive Overview of Supademo\nAsk Supademo Agent...\nShare\nTalk to team\nSupademo Dashboard Sandbox\nMicrosoft Workspace\nEnterprise • Admin\nHome\nAI Command\nCreate\nSupademos\nVideos\nDemo agents\nBeta\nShare\nShowcases\nDemo hubs\nRoute hubs\nMeasure\nAnalytics\n⌂ › Measure ›\nAnalytics\nEarn $200\nSearch...\nSupademo Analytics\nShowcase Analytics\nJul 13 - Aug 11, 26\nSupademo Views\nTotal Viewers\n184.4K↓ 1.29%\nAverage Engagement\n18.48%↓ 0.34%\nRecent Viewers\nRecent Accounts\nView all →\nCONTACT\nLAST VIEWED\nDEMOS VIEWED\nSarah Parker\nsarah@microsoft.com\n8/11/2026\n27\nJohn Vancouver\njohn@microsoft.com\n8/10/2026\n16\nPriya Shah\npriya@microsoft.com\n8/09/2026\n9\nMade with Supademo\nPush to Talk\nCC\n\nHubSpot example agent walking a buyer through creating a deal in HubSpot\n\nWhere are your teams stuck today: lead quality, handoff timing, or visibility into what's working?\n\nWe don't see what's actually converting.\n\nHubSpot tracks the full journey from first touch to closed deal, so you can see which campaigns and touchpoints drive conversions.\n\nHow are you measuring success today: pipeline velocity, deal size, or something else?\n\nAsk HubSpot Sales Advisor...\nShare\nBook a sales demo\nFind in HubSpot\n✦ Breeze Assistant\nDeals ▾\nAll deals\nMy deals\nCreate deal\nSearch\nDeal owner ▾\nCreate date ▾\nLast activity date ▾\nClose date ▾\nAdvanced filters\nDemo booked 28\nNexaTech Solutions\nDeal owner: Alex Morgan\nCreate date: 10/08/2026\nPinnacle Biotech\nDeal owner: Alex Morgan\nCreate date: 10/08/2026\nAtlas Freight Systems\nDeal owner: Alex Morgan\nCreate date: 10/07/2026\nPre-Trial 33\nNexaTech Solutions\nAmount: $6,300\nClose date: 10/31/2026\nMediCore Health\nAmount: $6,300\nClose date: 09/30/2026"
+  },
+  "91_mkt_pricing": {
+    "url": "https://supademo.com/pricing",
+    "title": "Plans & Pricing | Supademo",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Transparent, flexible pricing"
+      },
+      {
+        "tag": "H3",
+        "text": "Free"
+      },
+      {
+        "tag": "H3",
+        "text": "Scale"
+      },
+      {
+        "tag": "H3",
+        "text": "Business"
+      },
+      {
+        "tag": "H3",
+        "text": "Growth"
+      },
+      {
+        "tag": "H3",
+        "text": "Enterprise"
+      },
+      {
+        "tag": "H3",
+        "text": "Prepaid demo agent credits"
+      },
+      {
+        "tag": "H3",
+        "text": "Core Demo Platform"
+      },
+      {
+        "tag": "H3",
+        "text": "HOW CREDITS WORK"
+      },
+      {
+        "tag": "H3",
+        "text": "WHAT YOUR AGENT DOES"
+      },
+      {
+        "tag": "H2",
+        "text": "Trusted by 200,000+ top operators and 3,000+ paying organizations"
+      },
+      {
+        "tag": "H2",
+        "text": "Compare plans and features"
+      },
+      {
+        "tag": "H3",
+        "text": "Trusted by thousands of fast-growing companies"
+      },
+      {
+        "tag": "H2",
+        "text": "FAQs"
+      },
+      {
+        "tag": "H3",
+        "text": "Can I get started for free?"
+      },
+      {
+        "tag": "H3",
+        "text": "Do you have a startup plan?"
+      },
+      {
+        "tag": "H3",
+        "text": "Do you have non-profit or educational discounts?"
+      },
+      {
+        "tag": "H3",
+        "text": "Is there a limit on the number of demos or views I get on a Supademo?"
+      },
+      {
+        "tag": "H3",
+        "text": "What happens when I downgrade my account to a free account?"
+      },
+      {
+        "tag": "H3",
+        "text": "What's the difference between creators, viewers and admins?"
+      },
+      {
+        "tag": "H3",
+        "text": "How does billing work for per-seat pricing?"
+      },
+      {
+        "tag": "H3",
+        "text": "How does AI Demo Agent pricing work?"
+      },
+      {
+        "tag": "H3",
+        "text": "What does one agent credit cover?"
+      },
+      {
+        "tag": "H3",
+        "text": "Do agent credits expire?"
+      },
+      {
+        "tag": "H3",
+        "text": "Which plans can use the AI Demo Agent?"
+      },
+      {
+        "tag": "H3",
+        "text": "Which plans include AI Command and the Supademo MCP server?"
+      },
+      {
+        "tag": "H3",
+        "text": "How do free unlimited screenshots work?"
+      },
+      {
+        "tag": "H3",
+        "text": "How do you ensure data privacy?"
+      },
+      {
+        "tag": "H3",
+        "text": "Will you help us create or optimize our Supademos?"
+      },
+      {
+        "tag": "H2",
+        "text": "The fastest way to create interactive product demos"
+      },
+      {
+        "tag": "H3",
+        "text": "Ask AI about Supademo"
+      },
+      {
+        "tag": "H3",
+        "text": "Product"
+      },
+      {
+        "tag": "H3",
+        "text": "Roles"
+      },
+      {
+        "tag": "H3",
+        "text": "Industries"
+      },
+      {
+        "tag": "H3",
+        "text": "Resources"
+      },
+      {
+        "tag": "H3",
+        "text": "Tools"
+      },
+      {
+        "tag": "H3",
+        "text": "Company"
+      },
+      {
+        "tag": "H3",
+        "text": "Customers"
+      },
+      {
+        "tag": "H3",
+        "text": "Downloads"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "AI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts",
+        "href": "/ai/command"
+      },
+      {
+        "text": "Product Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "Agentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "Supademo",
+        "href": "/"
+      },
+      {
+        "text": "Platform",
+        "href": "/features"
+      },
+      {
+        "text": "Solutions",
+        "href": "/solutions"
+      },
+      {
+        "text": "Resources",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.supademo.com/login"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://app.supademo.com/signup"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      }
+    ],
+    "bodyText": "Skip to content\nAI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts\nProduct Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo\nAgentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time\nSupademo\nPlatform\nSolutions\nResources\nPricing\nLogin\nBook a demo\nStart for free\nTransparent, flexible pricing\nDemo Platform\nAI Demo Agents\nYearly billing\nFree\n\n$0\n/ month\n\nFree forever for 1 creator\n\nSign up for free\n\nAvailable demo types\n\n5 guided interactive demos\n50 video recordings (4K)\n\nKey features\n\nUnlimited demo views\nAI text personalization\nIntuitive demo editor\nShare as link, embed, video, PDF\n\n1 creator/admin included\n\nScale\n\n$50 Save 24%\n\n$38\n/ month\n\n−\n1 creator\n+\n\nBilled per creator\n\nStart Scale trial\n\nAvailable demo types\n\nGuided interactive demos\nVideo recording (4K)\nShowcase collections\nAI Demo AgentAdd on\n\nEverything in Free, plus\n\nSupademo AI\nSupademo MCP\nBranching and variables\nTracking links and analytics\n+20 premium features\n\nBilled per creator/admin\n\n5 view-only collaborators\nBusiness\n\n$249 Save 20%\n\n$199\n/ month\n\n−\n1 creator\n+\n\n$50/mo per extra creator\n\nStart Business trial\n\nAvailable demo types\n\nGuided interactive demos\nGuided HTML demos\nVideo recording (4K)\nShowcase collections\nAI Demo AgentAdd on\n\nEverything in Scale, plus\n\nHTML text and image editing\nAI data editing\nPriority support\n\n1 creator included, additional at $50/mo\n\nUnlimited view-only collaborators\nGrowth\nPopular\n\n$450 Save 22%\n\n$350\n/ month\n\n−\n5 creators\n+\n\n$50/mo per extra creator\n\nStart Growth trial\n\nAvailable demo types\n\nGuided interactive demos\nGuided HTML demos\nSandbox demos\nVideo recording (4K)\nShowcase collections\nAI Demo AgentAdd on\n\nEverything in Business, plus\n\nRoute Hub\nAI voice cloning\nDemo versioning\nWhite-glove onboarding\n+10 premium features\n\n5 creators bundled, additional at $50/mo\n\nUnlimited view-only collaborators\nEnterprise\n\nCustom\n\nStarts at 10 creators\n\nTalk to a human\n\nAvailable demo types\n\nGuided interactive demos\nGuided HTML demos\nSandbox demos\nVideo recording (4K)\nShowcase collections\nAI Demo AgentAdd on\n\nEverything in Growth, plus\n\nSSO & SAML\nCustom data residency\nMultiple workspaces\nDedicated support & training\n+10 premium features\n\nStarts at 10 creators bundled\n\nUnlimited view-only collaborators\nCompare plans and features ↓\n1\nPrepaid demo agent credits\n\nNo recurring subscription or expiration. Prepay for credits and use them whenever you need them. Buy more and save.\n\n$199\nSave 12%\n2\nCore Demo Platform\nMonthly\nYearly\nScale\nBilled per creator\n$38/creator/mo\nSee all plans\n\n~$1.25\n\nper typical demo call*\n\n≈ 159\ndemo calls · 3,182 credits\n$0.06\nper credit\nSave 12%\nStart free with 1,500 credits (~75 calls)\nHOW CREDITS WORK\n\n1 credit per response\n\nEvery agent reply, text or voice, uses one credit.\n\n1 credit per 15s of voice\n\nVoice replies add one credit for each 15 seconds of agent audio.\n\n≈20 credits per demo call\n\nA typical 15-minute demo call uses about 20 credits.*\n\nCredits never expire\n\nUnused credits stay in your balance until you use them.\n\nWHAT YOUR AGENT DOES\n\nRuns demos like your best AE, 24/7\n\nWalks visitors through your product without forms or scheduling.\n\nQualifies and routes to the right demos\n\nRuns structured discovery and guides users to the most relevant content.\n\nVoice-led, in 50+ languages\n\nBuyers can speak or type, and the agent responds in their own language.\n\nWarm handoff to sales\n\nYour rep inherits a summary, transcript, and suggested next steps.\n\n*A 15-minute session runs ~20 credits: about 12 agent replies plus ~2 minutes of voice. Time buyers spend exploring isn't billed.\n\nTrusted by 200,000+ top operators and 3,000+ paying organizations\nExplore\nFeatured\ncompanies that trust Supademo\nView case study\n\n“Supademo has become an invaluable part of various workflows at Spare. Supademo has made a massive impact for us.”\n\nKristoffer Vik Hansen\n\nCo-founder & CEO\n\nView case study\n\n“We've driven seve"
+  },
+  "92_mkt_showcase": {
+    "url": "https://supademo.com/showcase",
+    "title": "Demo Showcase | Supademo",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Explore the interactive demo showcase"
+      },
+      {
+        "tag": "H2",
+        "text": "HTML Interactive Demos"
+      },
+      {
+        "tag": "H2",
+        "text": "AI Demo Agents"
+      },
+      {
+        "tag": "H2",
+        "text": "Sandbox Demo Environments"
+      },
+      {
+        "tag": "H2",
+        "text": "Interactive Mobile App Demos"
+      },
+      {
+        "tag": "H2",
+        "text": "Tours, Collections and Multi-Demo Showcase"
+      },
+      {
+        "tag": "H2",
+        "text": "Route Hubs"
+      },
+      {
+        "tag": "H2",
+        "text": "Demo Hubs"
+      },
+      {
+        "tag": "H2",
+        "text": "Customer Success"
+      },
+      {
+        "tag": "H2",
+        "text": "Product Marketing"
+      },
+      {
+        "tag": "H2",
+        "text": "Sales and Enablement"
+      },
+      {
+        "tag": "H2",
+        "text": "Training and Education"
+      },
+      {
+        "tag": "H2",
+        "text": "Finance & Banking"
+      },
+      {
+        "tag": "H2",
+        "text": "Government"
+      },
+      {
+        "tag": "H2",
+        "text": "Healthcare"
+      },
+      {
+        "tag": "H2",
+        "text": "Make a demo like these in minutes"
+      },
+      {
+        "tag": "H3",
+        "text": "Ask AI about Supademo"
+      },
+      {
+        "tag": "H3",
+        "text": "Product"
+      },
+      {
+        "tag": "H3",
+        "text": "Roles"
+      },
+      {
+        "tag": "H3",
+        "text": "Industries"
+      },
+      {
+        "tag": "H3",
+        "text": "Resources"
+      },
+      {
+        "tag": "H3",
+        "text": "Tools"
+      },
+      {
+        "tag": "H3",
+        "text": "Company"
+      },
+      {
+        "tag": "H3",
+        "text": "Customers"
+      },
+      {
+        "tag": "H3",
+        "text": "Downloads"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "AI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts",
+        "href": "/ai/command"
+      },
+      {
+        "text": "Product Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "Agentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "Supademo",
+        "href": "/"
+      },
+      {
+        "text": "Platform",
+        "href": "/features"
+      },
+      {
+        "text": "Solutions",
+        "href": "/solutions"
+      },
+      {
+        "text": "Resources",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.supademo.com/login"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://app.supademo.com/signup"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      }
+    ],
+    "bodyText": "Skip to content\nAI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts\nProduct Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo\nAgentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time\nSupademo\nPlatform\nSolutions\nResources\nPricing\nLogin\nBook a demo\nStart for free\nExplore the interactive demo showcase\n\nGet inspired by exploring interactive demo examples by demo type, industry, or use case.\n\nFilter by\nDemo Type\nHTML Demos\nAI Demo Agents\nSandbox Demos\nMobile App Demos\nScreenshot Demos\nDemo Hubs\nRoute Hubs\nShowcase Collections\nUse Case\nIndustry\nHTML Interactive Demos\n\nCapture pixel-perfect replicas of web-based products and features with HTML capture.\n\nLearn more\nInteractive demo of Fin AI\nDemo of Robinhood Legend\nCustom demo using URL parameters\nSetting up autopay on Mercury\nWise product overview\nAdding products on Shopify\nShow more\nAI Demo Agents\n\nAn AI Demo Agent on your site answers questions by text or voice, opens the demo that shows the answer, and sends qualified buyers to your team with a summary.\n\nLearn more\nSupademo\nSupademo AI Demo Agent\nAnswers questions about Supademo and shows the demo.\nTry the agent\nHubSpot\nHubSpot example agent\nWalks a buyer through creating a deal in HubSpot.\nTry the agent\nAttio\nAttio example agent\nShows a buyer deal value by stage in Attio.\nTry the agent\nSandbox Demo Environments\n\nLet qualified viewers freely click around your product via realistic, sandbox environments.\n\nLearn more\nAhrefs Sandbox Demo\nTypeform Sandbox Demo\nMixpanel Sandbox Demo\nInteractive Mobile App Demos\n\nRecord your mobile app or convert demo videos from your phone into interactive demos.\n\nLearn more\nHow to book a trip on Kindred\nBooking a car rental on Turo's mobile app\nAdding a stop to your route on Uber's mobile app\nSet your home or work address on Google Maps\nChange the Content Language on Mobile\nHow to find archived chats on ChatGPT\nShow more\nTours, Collections and Multi-Demo Showcase\n\nShowcases allow you to share multiple, related Supademos through a single, shareable page.\n\nLearn more\nSupademo interactive onboarding\nStrava feature tour and showcase\nCanva step-by-step tutorials\nRoute Hubs\n\nRoute viewers to a personalized demo based on their interests and needs with interactive Route Hubs.\n\nLearn more\nSupademo Route Hub\nAirtable Route Hub\nCanva Route Hub\nDemo Hubs\n\nReplace disruptive product tours with engaging Demo Hubs. Inside your app, on your website, and in your docs.\n\nLearn more\nDrive adoption by highlighting new features\nConsolidate common support tickets into self-paced tutorials\nBuild an engaging learning academy for first-time users\nEmbed self-serve interactive guides inside of your app\nSelf-paced in-app guide for common product questions\nReducing redundant support with interactive in-context guides\nCustomer Success\n\nHelp your customers succeed with interactive guides and tutorials that drive product adoption and reduce support tickets.\n\nLearn more\nSetting up autopay on Mercury\nAdding products on Shopify\nBuild a CS Dashboard in Airtable\nRabobank payment requests\nRequesting Zelle Payment on Wells Fargo\nEdit mailing address in Canada Revenue Agency profile settings\nShow more\nProduct Marketing\n\nShowcase your product features and drive engagement with compelling interactive demos for your marketing campaigns.\n\nLearn more\nInteractive demo of Fin AI\nDemo of Robinhood Legend\nWise product overview\nUpload and share files in Dropbox\nProduct tour: collaboration on Slack\nBuild a CS Dashboard in Airtable\nShow more\nSales and Enablement\n\nEmpower your sales team with interactive demos that help close deals faster and demonstrate value effectively.\n\nLearn more\nInteractive demo of Fin AI\nCustom demo using URL parameters\nProduct tour: collaboration on Slack\nScheduling Sales Calls in Calendly\nSupademo analytics product tour\nAhrefs Sandbox Demo\nShow more\nTraining and Education\n\nCreate engaging learning experie"
+  },
+  "93_mkt_ai": {
+    "url": "https://supademo.com/features/ai",
+    "title": "Feature Not Found | Supademo",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "404"
+      },
+      {
+        "tag": "H2",
+        "text": "Page Not Found"
+      },
+      {
+        "tag": "H2",
+        "text": "Where to look instead"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "bodyText": "Skip to content\n404\nPage Not Found\n\nSorry, we couldn't find the page you're looking for. The page may have been moved, deleted, or never existed.\n\nGo to Homepage\nContact Support\nWhere to look instead\nSite map — every indexable URL on this site\n/llms.txt — machine-readable map of the site, by topic\nProduct documentation\nOpenAPI specification — the public API surface\n\nAny page here returns markdown via an Accept: text/markdown header or a .md suffix.\n\nYou might be looking for:\n\nFeatures\n•\nPricing\n•\nUse Cases\n•\nDocumentation\n•\nSign Up\nCookie Preferences\n\nWe use cookies (including Google Analytics) to improve our site and understand how visitors use it.\n\nView our privacy policy\n\nReject All\nAccept"
+  },
+  "94_mkt_html_demo": {
+    "url": "https://supademo.com/features/html-demo-recorder",
+    "title": "Feature Not Found | Supademo",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "404"
+      },
+      {
+        "tag": "H2",
+        "text": "Page Not Found"
+      },
+      {
+        "tag": "H2",
+        "text": "Where to look instead"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "bodyText": "Skip to content\n404\nPage Not Found\n\nSorry, we couldn't find the page you're looking for. The page may have been moved, deleted, or never existed.\n\nGo to Homepage\nContact Support\nWhere to look instead\nSite map — every indexable URL on this site\n/llms.txt — machine-readable map of the site, by topic\nProduct documentation\nOpenAPI specification — the public API surface\n\nAny page here returns markdown via an Accept: text/markdown header or a .md suffix.\n\nYou might be looking for:\n\nFeatures\n•\nPricing\n•\nUse Cases\n•\nDocumentation\n•\nSign Up\nCookie Preferences\n\nWe use cookies (including Google Analytics) to improve our site and understand how visitors use it.\n\nView our privacy policy\n\nReject All\nAccept"
+  },
+  "95_mkt_demo_hub": {
+    "url": "https://supademo.com/features/in-app-product-tours",
+    "title": "Feature Not Found | Supademo",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "404"
+      },
+      {
+        "tag": "H2",
+        "text": "Page Not Found"
+      },
+      {
+        "tag": "H2",
+        "text": "Where to look instead"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "bodyText": "Skip to content\n404\nPage Not Found\n\nSorry, we couldn't find the page you're looking for. The page may have been moved, deleted, or never existed.\n\nGo to Homepage\nContact Support\nWhere to look instead\nSite map — every indexable URL on this site\n/llms.txt — machine-readable map of the site, by topic\nProduct documentation\nOpenAPI specification — the public API surface\n\nAny page here returns markdown via an Accept: text/markdown header or a .md suffix.\n\nYou might be looking for:\n\nFeatures\n•\nPricing\n•\nUse Cases\n•\nDocumentation\n•\nSign Up\nCookie Preferences\n\nWe use cookies (including Google Analytics) to improve our site and understand how visitors use it.\n\nView our privacy policy\n\nReject All\nAccept"
+  },
+  "96_mkt_integrations": {
+    "url": "https://supademo.com/integrations",
+    "title": "Featured Integrations | Supademo",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Supercharge your workflow with Supademo integrations"
+      },
+      {
+        "tag": "H2",
+        "text": "Filter by"
+      },
+      {
+        "tag": "H2",
+        "text": "AI & LLMs"
+      },
+      {
+        "tag": "H3",
+        "text": "ChatGPT"
+      },
+      {
+        "tag": "H3",
+        "text": "Claude"
+      },
+      {
+        "tag": "H3",
+        "text": "Gemini"
+      },
+      {
+        "tag": "H3",
+        "text": "Grok"
+      },
+      {
+        "tag": "H3",
+        "text": "Copilot"
+      },
+      {
+        "tag": "H3",
+        "text": "Cursor"
+      },
+      {
+        "tag": "H3",
+        "text": "Any MCP client"
+      },
+      {
+        "tag": "H2",
+        "text": "Embed in Supademo"
+      },
+      {
+        "tag": "H3",
+        "text": "Calendly"
+      },
+      {
+        "tag": "H3",
+        "text": "Cal"
+      },
+      {
+        "tag": "H3",
+        "text": "SurveyMonkey"
+      },
+      {
+        "tag": "H3",
+        "text": "HubSpot Forms"
+      },
+      {
+        "tag": "H3",
+        "text": "Tally"
+      },
+      {
+        "tag": "H3",
+        "text": "Typeform"
+      },
+      {
+        "tag": "H3",
+        "text": "Jotform"
+      },
+      {
+        "tag": "H3",
+        "text": "Google Forms"
+      },
+      {
+        "tag": "H2",
+        "text": "Knowledge Base"
+      },
+      {
+        "tag": "H3",
+        "text": "Zendesk"
+      },
+      {
+        "tag": "H3",
+        "text": "Intercom"
+      },
+      {
+        "tag": "H3",
+        "text": "Gitbook"
+      },
+      {
+        "tag": "H3",
+        "text": "Confluence"
+      },
+      {
+        "tag": "H3",
+        "text": "Freshdesk"
+      },
+      {
+        "tag": "H3",
+        "text": "Document360"
+      },
+      {
+        "tag": "H3",
+        "text": "Guru"
+      },
+      {
+        "tag": "H3",
+        "text": "HelpScout"
+      },
+      {
+        "tag": "H3",
+        "text": "HelpJuice"
+      },
+      {
+        "tag": "H3",
+        "text": "Fernand"
+      },
+      {
+        "tag": "H3",
+        "text": "Slite"
+      },
+      {
+        "tag": "H3",
+        "text": "Mintlify"
+      },
+      {
+        "tag": "H2",
+        "text": "Sales & CRM"
+      },
+      {
+        "tag": "H3",
+        "text": "HubSpot"
+      },
+      {
+        "tag": "H3",
+        "text": "Salesforce"
+      },
+      {
+        "tag": "H3",
+        "text": "Slack"
+      },
+      {
+        "tag": "H3",
+        "text": "Google Analytics"
+      },
+      {
+        "tag": "H3",
+        "text": "Zapier"
+      },
+      {
+        "tag": "H3",
+        "text": "Marketo"
+      },
+      {
+        "tag": "H3",
+        "text": "Google Tag Manager"
+      },
+      {
+        "tag": "H3",
+        "text": "Seismic"
+      },
+      {
+        "tag": "H3",
+        "text": "Webhooks"
+      },
+      {
+        "tag": "H2",
+        "text": "Internal Documentation"
+      },
+      {
+        "tag": "H3",
+        "text": "Notion"
+      },
+      {
+        "tag": "H3",
+        "text": "Coda"
+      },
+      {
+        "tag": "H3",
+        "text": "ClickUp"
+      },
+      {
+        "tag": "H3",
+        "text": "Guru"
+      },
+      {
+        "tag": "H2",
+        "text": "Websites & Blogs"
+      },
+      {
+        "tag": "H3",
+        "text": "Webflow"
+      },
+      {
+        "tag": "H3",
+        "text": "Bubble"
+      },
+      {
+        "tag": "H3",
+        "text": "Ghost"
+      },
+      {
+        "tag": "H3",
+        "text": "Squarespace"
+      },
+      {
+        "tag": "H3",
+        "text": "Framer"
+      },
+      {
+        "tag": "H3",
+        "text": "Medium"
+      },
+      {
+        "tag": "H3",
+        "text": "Mirror.xyz"
+      },
+      {
+        "tag": "H3",
+        "text": "Wix"
+      },
+      {
+        "tag": "H2",
+        "text": "Digital Sales Rooms"
+      },
+      {
+        "tag": "H3",
+        "text": "Journey.io"
+      },
+      {
+        "tag": "H3",
+        "text": "Flowla"
+      },
+      {
+        "tag": "H3",
+        "text": "Paage.io"
+      },
+      {
+        "tag": "H3",
+        "text": "Distribute"
+      },
+      {
+        "tag": "H3",
+        "text": "Seismic"
+      },
+      {
+        "tag": "H2",
+        "text": "Others"
+      },
+      {
+        "tag": "H3",
+        "text": "G2"
+      },
+      {
+        "tag": "H3",
+        "text": "SourceForge"
+      },
+      {
+        "tag": "H3",
+        "text": "Product Hunt"
+      },
+      {
+        "tag": "H3",
+        "text": "Canva"
+      },
+      {
+        "tag": "H2",
+        "text": "Amplify your tools and workflow"
+      },
+      {
+        "tag": "H2",
+        "text": "The fastest way to create interactive product demos"
+      },
+      {
+        "tag": "H3",
+        "text": "Ask AI about Supademo"
+      },
+      {
+        "tag": "H3",
+        "text": "Product"
+      },
+      {
+        "tag": "H3",
+        "text": "Roles"
+      },
+      {
+        "tag": "H3",
+        "text": "Industries"
+      },
+      {
+        "tag": "H3",
+        "text": "Resources"
+      },
+      {
+        "tag": "H3",
+        "text": "Tools"
+      },
+      {
+        "tag": "H3",
+        "text": "Company"
+      },
+      {
+        "tag": "H3",
+        "text": "Customers"
+      },
+      {
+        "tag": "H3",
+        "text": "Downloads"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "AI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts",
+        "href": "/ai/command"
+      },
+      {
+        "text": "Product Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "Agentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "Supademo",
+        "href": "/"
+      },
+      {
+        "text": "Platform",
+        "href": "/features"
+      },
+      {
+        "text": "Solutions",
+        "href": "/solutions"
+      },
+      {
+        "text": "Resources",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.supademo.com/login"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://app.supademo.com/signup"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      }
+    ],
+    "bodyText": "Skip to content\nAI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts\nProduct Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo\nAgentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time\nSupademo\nPlatform\nSolutions\nResources\nPricing\nLogin\nBook a demo\nStart for free\nSupercharge your workflow with Supademo integrations\n\nLeverage Supademo to add interactive engagement to the tools you already use, such as support docs, product blogs, websites, and more.\n\nCreate your first Supademo\nRequest a demo\nFilter by\nCategories\nAI & LLMs\nEmbed in Supademo\nKnowledge Base\nSales & CRM\nInternal Documentation\nWebsites & Blogs\nDigital Sales Rooms\nOthers\nAI & LLMs\nChatGPT\n\nAdd Supademo from ChatGPT's plugin list, then build, edit, and share demos from a chat.\n\nClaude\n\nAdd Supademo from Claude's connectors list to edit, translate, and analyze demos on the web or desktop.\n\nGemini\n\nConnect Gemini to the Supademo MCP server to list, edit, and translate demos.\n\nGrok\n\nConnect Grok to the Supademo MCP server through xAI's remote MCP tools.\n\nCopilot\n\nAdd the Supademo MCP server as a tool for your agent in Copilot Studio.\n\nCursor\n\nAdd the Supademo MCP server in Cursor's settings and work on demos from its agent.\n\nAny MCP client\n\nConnect any MCP client to https://mcp.supademo.com/mcp, authorized over OAuth.\n\nEmbed in Supademo\nCalendly\n\nEmbed Calendly links in Supademos to let viewers book meetings or demos.\n\nCal\n\nEmbed Cal.com links in Supademos to let viewers book meetings or demos.\n\nSurveyMonkey\n\nEmbed SurveyMonkey surveys into Supademos, enabling viewers to provide feedback.\n\nHubSpot Forms\n\nEmbed HubSpot Forms in Supademos to capture leads and feedback, boosting engagement.\n\nTally\n\nEmbed Tally forms in Supademos to boost engagement and collect feedback, sign-ups.\n\nTypeform\n\nEmbed Typeform forms in Supademos for seamless surveys, feedback, or lead capture.\n\nJotform\n\nEmbed Jotform forms in Supademos to boost engagement, collect data, and drive action.\n\nGoogle Forms\n\nEmbed Google Forms in Supademos to boost engagement and streamline data collection.\n\nKnowledge Base\nZendesk\n\nPlace Supademo demos in Zendesk help center articles to resolve issues visually.\n\nIntercom\n\nEmbed interactive walkthroughs directly into Intercom help articles or chat replies.\n\nGitbook\n\nBoost onboarding and support content by embedding interactive walkthroughs into GitBook docs.\n\nConfluence\n\nIntegrate walkthroughs into Confluence pages to make documentation engaging.\n\nFreshdesk\n\nAdd interactive Supademo walkthroughs to Freshdesk KB articles.\n\nDocument360\n\nEmbed Supademo tours into Document360 articles to enhance learning.\n\nGuru\n\nEnrich Guru knowledge base pages with step-by-step interactive walkthroughs.\n\nHelpScout\n\nInsert Supademo walkthroughs into HelpScout knowledge base articles.\n\nHelpJuice\n\nAdd interactive tutorials into HelpJuice articles to bolster self-service support.\n\nFernand\n\nEmbed guides in Fernand that use visual walkthroughs to reduce tickets.\n\nSlite\n\nAdd step-by-step, hands-on Supademo walkthroughs inside Slite docs.\n\nMintlify\n\nMake documentation in Mintlify more engaging with embedded interactive Supademo demos.\n\nSales & CRM\nHubSpot\n\nCapture high-intent leads by syncing demo completion and interaction data into HubSpot.\n\nSalesforce\n\nAuto-sync Supademo viewer and engagement data to Salesforce.\n\nSlack\n\nReceive instant Slack notifications about demo views, new leads, and top performers.\n\nGoogle Analytics\n\nTrack Supademo performance via Google Analytics—monitoring demo views, CTA clicks.\n\nZapier\n\nAutomate your workflows through Zapier—like updating CRM contacts.\n\nMarketo\n\nSync Supademo engagement data to Marketo to enable real-time tracking.\n\nGoogle Tag Manager\n\nFire your Google Tag Manager tags from demo activity.\n\nSeismic\n\nPublish demos and videos to your Seismic library, and keep them in sync.\n\nWebhooks\n\nSend demo and lead events to any endpoint you choo"
+  },
+  "97_mkt_enterprise": {
+    "url": "https://supademo.com/enterprise",
+    "title": "Supademo for Enterprise: Demos every team can build, security every team can trust",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Demos at enterprise scale,\nsecured by default"
+      },
+      {
+        "tag": "H2",
+        "text": "Trusted by 3,000+ teams, from leading companies to the Fortune 500"
+      },
+      {
+        "tag": "H2",
+        "text": "Scale, governance, security, and partnership"
+      },
+      {
+        "tag": "H3",
+        "text": "Built for scale across products, regions, and teams"
+      },
+      {
+        "tag": "H3",
+        "text": "Governance and access control without the workaround"
+      },
+      {
+        "tag": "H3",
+        "text": "Enterprise-grade security and compliance from day one"
+      },
+      {
+        "tag": "H3",
+        "text": "White-glove onboarding and ongoing partnership"
+      },
+      {
+        "tag": "H2",
+        "text": "Enterprise-ready by default"
+      },
+      {
+        "tag": "H3",
+        "text": "Security & Compliance"
+      },
+      {
+        "tag": "H3",
+        "text": "Identity & Access"
+      },
+      {
+        "tag": "H2",
+        "text": "Real outcomes from teams using Supademo"
+      },
+      {
+        "tag": "H2",
+        "text": "FAQs about Supademo Enterprise"
+      },
+      {
+        "tag": "H3",
+        "text": "What's the difference between Supademo's lower tiers and Enterprise?"
+      },
+      {
+        "tag": "H3",
+        "text": "How does Supademo handle our customer data in demos?"
+      },
+      {
+        "tag": "H3",
+        "text": "What security and compliance certifications do you have?"
+      },
+      {
+        "tag": "H3",
+        "text": "How does Supademo's AI work, and is our data used to train models?"
+      },
+      {
+        "tag": "H3",
+        "text": "What does enterprise onboarding look like?"
+      },
+      {
+        "tag": "H3",
+        "text": "How does Supademo integrate with our existing tools (CRM, MAP, Slack)?"
+      },
+      {
+        "tag": "H2",
+        "text": "Ready to scale demos across your enterprise?"
+      },
+      {
+        "tag": "H3",
+        "text": "Ask AI about Supademo"
+      },
+      {
+        "tag": "H3",
+        "text": "Product"
+      },
+      {
+        "tag": "H3",
+        "text": "Roles"
+      },
+      {
+        "tag": "H3",
+        "text": "Industries"
+      },
+      {
+        "tag": "H3",
+        "text": "Resources"
+      },
+      {
+        "tag": "H3",
+        "text": "Tools"
+      },
+      {
+        "tag": "H3",
+        "text": "Company"
+      },
+      {
+        "tag": "H3",
+        "text": "Customers"
+      },
+      {
+        "tag": "H3",
+        "text": "Downloads"
+      },
+      {
+        "tag": "H3",
+        "text": "Cookie Preferences"
+      }
+    ],
+    "navLinks": [
+      {
+        "text": "AI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts",
+        "href": "/ai/command"
+      },
+      {
+        "text": "Product Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "Agentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "",
+        "href": "/ai/command"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=LIoJYlbrpzQ"
+      },
+      {
+        "text": "",
+        "href": "/ai/demo-agents"
+      },
+      {
+        "text": "Supademo",
+        "href": "/"
+      },
+      {
+        "text": "Platform",
+        "href": "/features"
+      },
+      {
+        "text": "Solutions",
+        "href": "/solutions"
+      },
+      {
+        "text": "Resources",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Login",
+        "href": "https://app.supademo.com/login"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      },
+      {
+        "text": "Start for free",
+        "href": "https://app.supademo.com/signup"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/product-demo"
+      }
+    ],
+    "bodyText": "Skip to content\nAI Command\nUpdate, translate, analyze, and organize your demos via natural language prompts\nProduct Updates\nNew in September: Drop a Loom or screen recording into AI Command and get a clickable demo\nAgentic Demos\nRun 24/7 discovery, qualify buyers, and surface the right content in real time\nSupademo\nPlatform\nSolutions\nResources\nPricing\nLogin\nBook a demo\nStart for free\n\nSupademo for Enterprise\n\nDemos at enterprise scale,\nsecured by default\n\nBuilt for sales, marketing, customer success, and product teams running AI-powered interactive demos and AI agents at scale, with the security, governance, and support large organizations need.\n\nTalk to sales\nVisit Trust Center\nMultiple workspaces\nEnterprise admin\nAI Demo Agents\n\nThe Workspaces tab of Supademo's Enterprise admin settings shows license, Creator, Billing Admin, and Viewer counts above a table of workspaces, with the members, demos, and showcases in each.\n\nSettings\nSearch settings\n⌘K\nTheme\nBranding\nSupademo\nCustom Domain\nAdministration\nGeneral\nAPI\nSecurity\nDemo Versioning\nIntegrations\nAccount\nProfile\nContent Structure\nTags\nPronunciation Library\nEnterprise\nEnterprise\n\nEnterprise admin\n\nManage workspaces, members, agent credits, licenses, and sign-in activity across your enterprise.\n\nRoles\nInvite members\n\nTotal licenses\n\n400\n\nPurchased seats\n\nCreators\n\n356 / 400\n\nAdmins and Creators\n\nBilling Admins\n\n5\n\nFree management role\n\nViewers\n\n148\n\nFree viewer access\n\nWorkspaces\nMembers\nPending invites (3)\nRequests\nAgent credits\nLogin History\n\nWorkspaces\n\n7 workspaces\n\nEnterprise workspaces connected to this account.\n\nCreate Workspace\nName\nMembers\nDemos\nShowcases\nMicrosoft 365\n142\n2846\n312\nEdit\nAzure AI\n118\n2391\n268\nEdit\nDynamics 365\n96\n1720\n174\nEdit\nCopilot Studio\n81\n1388\n131\nEdit\nPower Platform\n73\n1146\n109\nEdit\nMicrosoft Teams\n57\n694\n58\nEdit\nPartner Enablement\n64\n812\n147\nEdit\n\nThe Login History tab of Supademo's Enterprise admin settings lists each member's sign-ins and sign-outs with their workspaces, sign-in method, and time. Admins can search it by email, filter it by workspace, and export it as a CSV file.\n\nSettings\nSearch settings\n⌘K\nTheme\nBranding\nSupademo\nCustom Domain\nAdministration\nGeneral\nAPI\nSecurity\nDemo Versioning\nIntegrations\nAccount\nProfile\nContent Structure\nTags\nPronunciation Library\nEnterprise\nEnterprise\n\nEnterprise admin\n\nManage workspaces, members, agent credits, licenses, and sign-in activity across your enterprise.\n\nRoles\nInvite members\n\nTotal licenses\n\n400\n\nPurchased seats\n\nCreators\n\n356 / 400\n\nAdmins and Creators\n\nBilling Admins\n\n5\n\nFree management role\n\nViewers\n\n148\n\nFree viewer access\n\nWorkspaces\nMembers\nPending invites (3)\nRequests\nAgent credits\nLogin History\n\nLogin History\n\n8462 events\n\nAudit sign-in activity across enterprise users.\n\nExport\nSearch by email\nAll workspaces\nUser\nWorkspace\nAction\nProvider\nTime\nPriya Raman\npriya.raman@microsoft.com\nMicrosoft 365, Copilot Studio\nLogged in\nMicrosoft Entra ID\n12 minutes ago\nMarcus Bell\nmarcus.bell@microsoft.com\nAzure AI\nLogged out\nSession\n2 hours ago\nElena Sokolova\nelena.sokolova@microsoft.com\nDynamics 365, Power Platform\nLogged in\nSAML SSO\n5 hours ago\nDaniel Okafor\ndaniel.okafor@microsoft.com\nPartner Enablement\nLogged in\nMicrosoft Entra ID\nOct 12, 2026 at 4:52 PM\nHannah Lindqvist\nhannah.lindqvist@microsoft.com\nMicrosoft Teams, Microsoft 365\nLogged out\nSession\nOct 12, 2026 at 2:08 PM\nKenji Watanabe\nkenji.watanabe@microsoft.com\nAzure AI, Copilot Studio\nLogged in\nMicrosoft Entra ID\nOct 12, 2026 at 9:31 AM\n\nSupademo AI Demo Agent answering a buyer's questions next to the Supademo analytics dashboard\n\nHi Satya, I'm your AI demo agent. I can walk you through Supademo with live interactive demos and answer any questions. What brought you here today?\n\nLooking to learn more about onboarding use cases. How long does it take to make a demo?\n\nCreating a demo takes about two minutes. You capture your product with the Chrome extension, and Supademo turns it into an interactive walkthrough with hotspots and annotatio"
+  }
+}

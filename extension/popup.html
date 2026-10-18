@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Supademo Recorder</title>
+  <style>
+    body { width: 300px; font-family: system-ui, sans-serif; margin: 0; padding: 16px; background: #0f172a; color: #f8fafc; }
+    h1 { font-size: 15px; margin: 0 0 6px; }
+    p { font-size: 12px; color: #94a3b8; margin: 0 0 12px; }
+    input { width: 100%; box-sizing: border-box; padding: 8px; border-radius: 8px; border: 1px solid #334155; background: #1e293b; color: #fff; font-size: 12px; margin-bottom: 10px; }
+    button { width: 100%; padding: 10px; border: none; border-radius: 8px; font-weight: 600; font-size: 12px; cursor: pointer; margin-bottom: 6px; }
+    .primary { background: #4f46e5; color: #fff; }
+    .danger { background: #e11d48; color: #fff; }
+    .status { font-size: 11px; color: #818cf8; margin-top: 6px; }
+  </style>
+</head>
+<body>
+  <h1>Supademo Chrome Recorder</h1>
+  <p>Click elements on any tab to auto-capture screenshots and hotspots.</p>
+  <input id="demoTitle" type="text" placeholder="Demo Title (e.g., Onboarding Tour)" value="Browser Recorded Supademo" />
+  <input id="serverUrl" type="text" value="http://localhost:3250" />
+  <button id="startBtn" class="primary">Start Recording Tab</button>
+  <button id="stopBtn" class="danger" style="display:none;">Finish &amp; Open in Editor</button>
+  <div id="status" class="status">Ready to record.</div>
+  <script src="popup.js"></script>
+</body>
+</html>

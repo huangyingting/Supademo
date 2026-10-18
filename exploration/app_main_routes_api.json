@@ -1,0 +1,191 @@
+[
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getdemos?page=0&limit=20&type=shared&from=demos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Demo",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Video",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/videos?page=0&limit=20&type=shared&from=videos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/agent/billing",
+    "postData": null,
+    "body": "{\"view\":{\"agentCount\":0,\"autoRechargeEnabled\":false,\"balance\":1500,\"billingState\":\"trial\",\"canCreateAgent\":true,\"canDuplicateAgent\":true,\"canManageAgentBilling\":true,\"canPurchaseCredits\":false,\"canUpgradeForAgentCreation\":false,\"currentUnitPrice\":0.054363636363636364,\"isEnterprise\":false,\"isManagedBilling\":false,\"isTrial\":true,\"needsBillingRecovery\":false,\"plan\":\"Growth\",\"rechargeAmount\":299,\"rechargeThreshold\":500,\"selectedPackage\":{\"amount\":299,\"credits\":5500,\"id\":\"recommended\",\"label\":\"Recommended\",\"unitPrice\":0.054363636363636364},\"creditAction\":\"upgrade_trial\",\"creditActionLabel\":\"Upgrade now\",\"status\":\"trial\",\"statusBadgeLabel\":\"Trial\",\"statusDescription\":\"Upgrade to purchase more agent credits. Your remaining credits are preserved.\",\"statusTitle\":\"1,500 agent credits available\"}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Showcase",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/showcase?page=0&limit=9&type=shared&from=showcases&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/routes?page=0&limit=20&type=shared&from=routes",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/analytics/leads?page=0&limit=5&from=2026-09-19&to=2026-10-18&viewType=external&sortField=lastViewed&sortDirection=desc",
+    "postData": null,
+    "body": "{\"success\":true,\"data\":[],\"total\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/analytics/details/demos?page=0&limit=5&from=2026-09-19&to=2026-10-18&sortField=Views&sortDirection=desc&viewType=external",
+    "postData": null,
+    "body": "{\"success\":true,\"data\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/analytics/workspace/devices?from=2026-09-19&to=2026-10-18&viewType=external",
+    "postData": null,
+    "body": "{\"success\":true,\"data\":{\"osPerformance\":[],\"browserPerformance\":[],\"countryPerformance\":[]}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/analytics/workspace/filter-options",
+    "postData": null,
+    "body": "{\"success\":true,\"data\":{\"sources\":[],\"languages\":[]}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/analytics/aggregate/insights/demos?from=2026-09-19&to=2026-10-18&viewType=external",
+    "postData": null,
+    "body": "{\"success\":true,\"data\":{\"current\":{\"insights\":[{\"date\":\"2026-09-19\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-20\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-21\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-22\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-23\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-24\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-25\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-26\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-27\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-28\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-29\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-30\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-01\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-02\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-03\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-04\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-05\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-06\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-07\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-08\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-09\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-10\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-11\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-12\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-13\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-14\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-15\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-16\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-17\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-10-18\",\"engaged_views\":0,\"total_views\":0}],\"totalViews\":0,\"engagement\":0},\"previous\":{\"insights\":[{\"date\":\"2026-08-20\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-21\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-22\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-23\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-24\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-25\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-26\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-27\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-28\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-29\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-30\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-08-31\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-01\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-02\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-03\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-04\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-05\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-06\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-07\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-08\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-09\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-10\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-11\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-12\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-13\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-14\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-15\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-16\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-17\",\"engaged_views\":0,\"total_views\":0},{\"date\":\"2026-09-18\",\"engaged_views\":0,\"total_views\":0}],\"totalViews\":0,\"engagement\":0},\"difference\":{\"totalViews\":null,\"engagement\":null}}}"
+  }
+]

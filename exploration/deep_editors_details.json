@@ -1,0 +1,43 @@
+{
+  "agentBuilder": {
+    "url": "https://app.supademo.com/agent/cmvdqb9cw02f30m0jn2h09vg0/edit",
+    "text": "Untitled Agent\nNot published\nDraft saved\nPreview\nPublish\n\nAGENT\n\nIdentity\nInterface\nGuardrails\nQuick Links\nSecurity\n\nKNOWLEDGE BASE\n\nDemos\nVideos\nDocuments\nWebsites\nText\n\nMONITOR\n\nInsights\nSessions\nTriggers\nKnowledge gaps\nIdentity\n\nSet up your agent's personality and first impression.\n\nAgent name\n\nWhat your agent introduces itself as in conversations.\n\nCompany name\n\nShown when the agent mentions where it works from.\n\nUse case\n\nWhat the agent optimizes for during conversations.\n\nQualify + book meeting\nQualify leads and book meetings\nOnboard + guide users\nHelp users learn and get unstuck\nTone\n\nHow the agent sounds when it speaks.\n\nFriendly\nNeutral\nProfessional\nWelcome message\n\nThe first message visitors see when they open the chat.\n\nSuggested questions\n\nUp to 5 conversation starters shown below the welcome message.\n\nAdd\nFallback behavior\n\nWhat happens when the agent can't answer a question.\n\nApologize\nApologize and ask to rephrase\nRedirect\nRedirect to a support link\nSuggest\nSuggest related content\nFallback message\n\nYour own wording when the agent can't answer. Leave blank to use the default phrasing for the behavior above.\n\nTips for Identity\n\nUse the customer-facing product or company name.\nPick the use case that matches the desired visitor action.\nAdd starter questions that reflect common buying intent.\n\nAgent Readiness\n\nRun a check to see how well your sources cover visitor questions.\n\nCheck\nAgent setup tutorial\nIn 9 minutes, learn how agents work and how to build a powerful one.\nNew Chat\n\nLet's automate your demos.\n \n\nWhat can a Demo Agent do?\nCheck if it's ready\nAdd my website\n\nDrop files to attach",
+    "tabs": [
+      "Preview",
+      "Publish",
+      "Identity",
+      "Interface",
+      "Guardrails",
+      "Quick Links",
+      "Security",
+      "Demos",
+      "Videos",
+      "Documents",
+      "Websites",
+      "Text",
+      "Insights",
+      "Sessions",
+      "Triggers",
+      "Knowledge gaps",
+      "Friendly",
+      "Neutral",
+      "Professional",
+      "Add",
+      "Check",
+      "Agent setup tutorial\nIn 9 minutes, learn how agents work and how to build a powerful one.",
+      "New Chat",
+      "What can a Demo Agent do?",
+      "Check if it's ready",
+      "Add my website"
+    ]
+  },
+  "showcaseAddDemoModal": "Edit Showcase\nUntitled Showcase\nPreview\nShare\nSections\n\nAdd your first resource\n\nDemo, video, PDF, link, and more\n\nAdd section\n\nStart building this showcase\n\nOrganize resources and guide viewers through the right journey.\n\nAdd Demo\n\nInteractive walkthrough\n\nAdd Video\n\nLibrary, upload, or URL\n\nAdd PDF\n\nDeck, guide, or one-pager\n\nAdd Link\n\nExternal webpage or doc\n\nImport Showcase\n\nCopy sections from an existing showcase\n\nNew Chat\n\nLet's automate your demos.\n \n\nHow should I use Supademo?\nRecap my week\nBuild a demo from uploads\n\nDrop files to attach\n\nAdd Demos\nDone\nAll\nShared with team\nNew Demo\n\nJoshuah Powlowski·5 steps\n\nAdd",
+  "demoHubInside": {
+    "url": "https://app.supademo.com/hub/cmvdqcyr100zf090iff8812gy",
+    "text": "Configure Demo Hub\nBack\nAppearance\nContent\nInstall\nHeader\nDisplay type\n\nChoose between title text or logo for the header.\n\nTitle\nLogo\nHeader logo\n\nUpload a logo for your Demo Hub header.\n\nSearch placeholder\n\nCustomize the text shown inside the Demo Hub search field.\n\nAlignment\n\nAlign the header title or logo.\n\nLeft\nCenter\nBackground\n\nChoose the background style for the Demo Hub header.\n\nSolid\nGradient\nText color\n\nChoose text color for the header content.\n\nClose button\n\nShow or hide the close button (users can still close with Esc).\n\nShow\nHide\nContent\nContent theme\n\nChoose between light and dark mode.\n\nLight\nDark\nFooter\nMenu label\n\nLabel for the dropdown menu that shows custom links.\n\nCustom links\n\nAdd up to 6 custom links to display in your Demo Hub.\n\nLink 1\nRemove\nLink 2\nRemove\n+ Add link\nCancel\nSave\n✕\nCategory 1\nCategory 2\nCategory 3\nPowered by Supademo\nHelp"
+  },
+  "routeHubInside": {
+    "url": "https://app.supademo.com/route/cmvdqdta100zk090i1gwa89sb/edit",
+    "text": "FORM\n\nWelcome to your personalized demo!\n\nFill out the form below to get started.\n\nName*\n\nEmail*\n\nCompany\n\nCompany Size\n\nINTEGRATIONS\n\nNo integrations enabled\n\nROUTE\n\nRoute\n\nPath 1\n1 group\nPath 2\n1 group\nPath 3\n1 group\nDefault\nSHOWCASE\n\nUntitled Showcase\n\nNo content\n\nConnected from\n\nDefault\n100%\nForm\nInterest\nIntegrations\nConditions\nShowcase\nEnterprise Qualification Route\nNot published\nEdit\nAnalytics\nPreview\nPublish\nNew Chat\n\nWhat are we working on today?\n \n\nHow should I use Supademo?\nRecap my week\nBuild a demo from uploads\n\nDrop files to attach"
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getdemos?page=0&limit=20&type=shared&from=demos&sortBy=updatedAt",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/personalization/workspace-context",
+    "postData": null,
+    "body": "{\"useCases\":[\"onboarding\",\"website\"],\"workspaceDemoCount\":0}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/dashboard/getfolders?type=shared&sortBy=updatedAt&folderType=Demo",
+    "postData": null,
+    "body": "[]"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "https://app.supademo.com/api/demo/new",
+    "postData": null,
+    "body": null
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/voice/catalog?provider=Inworld",
+    "postData": null,
+    "body": "{\"voices\":[{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Tyler.mp3\",\"name\":\"Tyler\",\"description\":\"Authoritative, insightful American male.\",\"locale\":\"en-US\",\"id\":\"Tyler\",\"voiceId\":\"Tyler\",\"provider\":\"Inworld\",\"style\":\"Authoritative, insightful American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Ethan.mp3\",\"name\":\"Ethan\",\"description\":\"Assured, precise American male.\",\"locale\":\"en-US\",\"id\":\"Ethan\",\"voiceId\":\"Ethan\",\"provider\":\"Inworld\",\"style\":\"Assured, precise American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Brian.mp3\",\"name\":\"Brian\",\"description\":\"Friendly, encouraging American male.\",\"locale\":\"en-US\",\"id\":\"Brian\",\"voiceId\":\"Brian\",\"provider\":\"Inworld\",\"style\":\"Friendly, encouraging American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Kelsey.mp3\",\"name\":\"Kelsey\",\"description\":\"Warm, empathetic American female.\",\"locale\":\"en-US\",\"id\":\"Kelsey\",\"voiceId\":\"Kelsey\",\"provider\":\"Inworld\",\"style\":\"Warm, empathetic American female.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Lauren.mp3\",\"name\":\"Lauren\",\"description\":\"Confident, friendly American female.\",\"locale\":\"en-US\",\"id\":\"Lauren\",\"voiceId\":\"Lauren\",\"provider\":\"Inworld\",\"style\":\"Confident, friendly American female.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Jason.mp3\",\"name\":\"Jason\",\"description\":\"Lucid, engaging American male.\",\"locale\":\"en-US\",\"id\":\"Jason\",\"voiceId\":\"Jason\",\"provider\":\"Inworld\",\"style\":\"Lucid, engaging American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Arthur.mp3\",\"name\":\"Arthur\",\"description\":\"American male.\",\"locale\":\"en-US\",\"id\":\"Arthur\",\"voiceId\":\"Arthur\",\"provider\":\"Inworld\",\"style\":\"American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Dennis.mp3\",\"name\":\"Dennis\",\"description\":\"Smooth, calm and friendly American male.\",\"locale\":\"en-US\",\"id\":\"Dennis\",\"voiceId\":\"Dennis\",\"provider\":\"Inworld\",\"style\":\"Smooth, calm and friendly American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Bianca.mp3\",\"name\":\"Bianca\",\"description\":\"American female.\",\"locale\":\"en-US\",\"id\":\"Bianca\",\"voiceId\":\"Bianca\",\"provider\":\"Inworld\",\"style\":\"American female.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Avery.mp3\",\"name\":\"Avery\",\"description\":\"American male.\",\"locale\":\"en-US\",\"id\":\"Avery\",\"voiceId\":\"Avery\",\"provider\":\"Inworld\",\"style\":\"American male.\",\"localeName\":\"English (United States)\",\"accent\":\"English (United States)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Ishaan.mp3\",\"name\":\"Ishaan\",\"description\":\"Indian English male.\",\"locale\":\"en-IN\",\"id\":\"Ishaan\",\"voiceId\":\"Ishaan\",\"provider\":\"Inworld\",\"style\":\"Indian English male.\",\"localeName\":\"English (India)\",\"accent\":\"English (India)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Kabir.mp3\",\"name\":\"Kabir\",\"description\":\"Bright, helpful Indian English male.\",\"locale\":\"en-IN\",\"id\":\"Kabir\",\"voiceId\":\"Kabir\",\"provider\":\"Inworld\",\"style\":\"Bright, helpful Indian English male.\",\"localeName\":\"English (India)\",\"accent\":\"English (India)\"},{\"previewUrl\":\"https://media.supademo.com/voice-previews/inworld/Saanvi.mp3\",\"name\":\"Saanvi\",\"description\":\"Crisp, articulate Indian English female.\""
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/voice/cloned",
+    "postData": null,
+    "body": "{\"status\":\"success\",\"voices\":[]}"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "https://app.supademo.com/api/edit/detect-language",
+    "postData": "{\"text\":\"Enjoyed the guided demo?\",\"demoId\":\"cmvdpmcll02wb090j10dbikms\",\"options\":{\"checkRedis\":true}}",
+    "body": "{\"status\":\"success\",\"language\":\"en\"}"
+  },
+  {
+    "method": "POST",
+    "status": 200,
+    "url": "https://app.supademo.com/api/edit/update-demo",
+    "postData": "{\"title\":\"New Demo\",\"id\":\"cmvdpmcll02wb090j10dbikms\",\"darkmode\":false,\"topBar\":true,\"recordOwnVoice\":false}",
+    "body": "{\"status\":\"success\",\"message\":\"Demo updated successfully\"}"
+  }
+]

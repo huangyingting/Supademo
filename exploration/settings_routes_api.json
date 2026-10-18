@@ -1,0 +1,219 @@
+[
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/brand",
+    "postData": null,
+    "body": "{\"workspace\":{\"favicon\":null,\"logo\":\"/supademo_logo.svg\",\"madein\":true,\"name\":\"My Company\",\"sharepagebtncolor\":\"#4f46e5\",\"sharepagebtnlink\":\"https://supademo.com\",\"sharepagebtntext\":\"Create Supademo\",\"sharepagebtntextcolor\":\"#fff\",\"watermarkLink\":\"https://supademo.com\",\"watermarkLogoUrl\":\"https://cdn.supademo.com/supademo_logo_icon.svg\",\"watermarkText\":\"Created on Supademo\"}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/brand",
+    "postData": null,
+    "body": "{\"workspace\":{\"favicon\":null,\"logo\":\"/supademo_logo.svg\",\"madein\":true,\"name\":\"My Company\",\"sharepagebtncolor\":\"#4f46e5\",\"sharepagebtnlink\":\"https://supademo.com\",\"sharepagebtntext\":\"Create Supademo\",\"sharepagebtntextcolor\":\"#fff\",\"watermarkLink\":\"https://supademo.com\",\"watermarkLogoUrl\":\"https://cdn.supademo.com/supademo_logo_icon.svg\",\"watermarkText\":\"Created on Supademo\"}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/integrations",
+    "postData": null,
+    "body": "{\"integrations\":[],\"plan\":\"Growth\",\"canUseScaleIntegrations\":true}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/agent/billing",
+    "postData": null,
+    "body": "{\"view\":{\"agentCount\":0,\"autoRechargeEnabled\":false,\"balance\":1500,\"billingState\":\"trial\",\"canCreateAgent\":true,\"canDuplicateAgent\":true,\"canManageAgentBilling\":true,\"canPurchaseCredits\":false,\"canUpgradeForAgentCreation\":false,\"currentUnitPrice\":0.054363636363636364,\"isEnterprise\":false,\"isManagedBilling\":false,\"isTrial\":true,\"needsBillingRecovery\":false,\"plan\":\"Growth\",\"rechargeAmount\":299,\"rechargeThreshold\":500,\"selectedPackage\":{\"amount\":299,\"credits\":5500,\"id\":\"recommended\",\"label\":\"Recommended\",\"unitPrice\":0.054363636363636364},\"creditAction\":\"upgrade_trial\",\"creditActionLabel\":\"Upgrade now\",\"status\":\"trial\",\"statusBadgeLabel\":\"Trial\",\"statusDescription\":\"Upgrade to purchase more agent credits. Your remaining credits are preserved.\",\"statusTitle\":\"1,500 agent credits available\"}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/payment/subscription",
+    "postData": null,
+    "body": "{\"status\":\"success\",\"subscription\":{\"id\":\"sub_1URrZeDNBXQNFoJIkOzufRbT\",\"object\":\"subscription\",\"application\":null,\"application_fee_percent\":null,\"automatic_tax\":{\"disabled_reason\":null,\"enabled\":false,\"liability\":null},\"billing_cycle_anchor\":1793529858,\"billing_cycle_anchor_config\":null,\"billing_mode\":{\"flexible\":{\"proration_discounts\":\"included\"},\"type\":\"flexible\",\"updated_at\":1792320258},\"billing_thresholds\":null,\"cancel_at\":null,\"cancel_at_period_end\":false,\"canceled_at\":null,\"cancellation_details\":{\"comment\":null,\"feedback\":null,\"feedback_option\":null,\"reason\":null},\"collection_method\":\"charge_automatically\",\"created\":1792320258,\"currency\":\"usd\",\"customer\":\"cus_VSn47nlLpAkMXc\",\"customer_account\":null,\"days_until_due\":null,\"default_payment_method\":null,\"default_source\":null,\"default_tax_rates\":[],\"description\":null,\"discounts\":[],\"ended_at\":null,\"invoice_settings\":{\"account_tax_ids\":null,\"custom_fields\":null,\"description\":null,\"footer\":null,\"issuer\":{\"type\":\"self\"}},\"items\":{\"object\":\"list\",\"data\":[{\"id\":\"si_VSn9hGvbNASEFM\",\"object\":\"subscription_item\",\"billing_thresholds\":null,\"created\":1792320259,\"current_period_end\":1793529858,\"current_period_start\":1792320258,\"current_trial\":null,\"discounts\":[],\"metadata\":{},\"plan\":{\"id\":\"price_1R1ti3DNBXQNFoJI2JHCQbI7\",\"object\":\"plan\",\"active\":true,\"amount\":null,\"amount_decimal\":null,\"billing_scheme\":\"tiered\",\"created\":1741802931,\"currency\":\"usd\",\"interval\":\"month\",\"interval_count\":1,\"livemode\":true,\"metadata\":{},\"meter\":null,\"nickname\":\"Growth-450\",\"product\":\"prod_RvlEuO4aKgIqAM\",\"tiers_mode\":\"graduated\",\"transform_usage\":null,\"trial_period_days\":null,\"usage_type\":\"licensed\"},\"price\":{\"id\":\"price_1R1ti3DNBXQNFoJI2JHCQbI7\",\"object\":\"price\",\"active\":true,\"billing_scheme\":\"tiered\",\"created\":1741802931,\"currency\":\"usd\",\"custom_unit_amount\":null,\"livemode\":true,\"lookup_key\":null,\"metadata\":{},\"nickname\":\"Growth-450\",\"product\":\"prod_RvlEuO4aKgIqAM\",\"recurring\":{\"interval\":\"month\",\"interval_count\":1,\"meter\":null,\"trial_period_days\":null,\"usage_type\":\"licensed\"},\"tax_behavior\":\"unspecified\",\"tiers_mode\":\"graduated\",\"transform_quantity\":null,\"type\":\"recurring\",\"unit_amount\":null,\"unit_amount_decimal\":null},\"quantity\":5,\"subscription\":\"sub_1URrZeDNBXQNFoJIkOzufRbT\",\"tax_rates\":[]}],\"has_more\":false,\"total_count\":1,\"url\":\"/v1/subscription_items?subscription=sub_1URrZeDNBXQNFoJIkOzufRbT\"},\"latest_invoice\":\"in_1URrZeDNBXQNFoJIiWK7YH63\",\"livemode\":true,\"managed_payments\":{\"enabled\":false},\"metadata\":{},\"next_pending_invoice_item_invoice\":null,\"on_behalf_of\":null,\"pause_collection\":null,\"payment_settings\":{\"payment_method_options\":null,\"payment_method_types\":null,\"save_default_payment_method\":\"on_subscription\"},\"pending_invoice_item_interval\":null,\"pending_setup_intent\":\"seti_1URrZfDNBXQNFoJI2eMTcnjg\",\"pending_update\":null,\"plan\":{\"id\":\"price_1R1ti3DNBXQNFoJI2JHCQbI7\",\"object\":\"plan\",\"active\":true,\"amount\":null,\"amount_decimal\":null,\"billing_scheme\":\"tiered\",\"created\":1741802931,\"currency\":\"usd\",\"interval\":\"month\",\"interval_count\":1,\"livemode\":true,\"metadata\":{},\"meter\":null,\"nickname\":\"Growth-450\",\"product\":\"prod_RvlEuO4aKgIqAM\",\"tiers_mode\":\"graduated\",\"transform_usage\":null,\"trial_period_days\":null,\"usage_type\":\"licensed\"},\"quantity\":5,\"schedule\":null,\"start_date\":1792320258,\"status\":\"trialing\",\"test_clock\":null,\"transfer_data\":null,\"trial_end\":1793529858,\"trial_settings\":{\"end_behavior\":{\"billing_cycle_anchor\":\"now\",\"missing_payment_method\":\"cancel\"}},\"trial_start\":1792320258},\"nextInvoiceAmount\":0,\"currentCreatorCount\":1}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/demo-player",
+    "postData": null,
+    "body": "{\"workspace\":{\"backgroundMusicUrl\":null,\"color\":\"#4f46e5\",\"ctaChapter\":{\"id\":\"cmvdp7fj6032lz20jqk6myad2\",\"createdAt\":\"2026-10-18T10:44:19.938Z\",\"updatedAt\":\"2026-10-18T10:44:19.938Z\",\"stepId\":null,\"workspaceId\":null,\"routeVersionId\":null,\"agentIntroVersionId\":null,\"enabled\":true,\"type\":\"Link\",\"password\":null,\"skip\":false,\"heading\":\"Enjoyed the guided demo?\",\"description\":\"Learn more about our features and benefits on our website!\",\"theme\":\"Dark\",\"layout\":\"Center\",\"coverImageType\":\"NONE\",\"coverImageSource\":null,\"logoEnabled\":true,\"logoSource\":\"/supademo_logo.svg\",\"logoAltText\":null,\"emailValidationMode\":\"CompanyEmail\",\"emailDomainList\":null,\"phoneValidationEnabled\":false,\"labelledFormEnabled\":false,\"embedCode\":null,\"blurIntensity\":24,\"headingColor\":\"#fff\",\"descriptionColor\":\"#fff\",\"backgroundId\":null,\"interestScreenColumnLabels\":null,\"integrationConfig\":null,\"background\":null,\"buttons\":[{\"id\":\"cmvdp7fjt032nz20jdzxv8nb8\",\"createdAt\":\"2026-10-18T10:44:19.962Z\",\"updatedAt\":\"2026-10-18T10:44:19.962Z\",\"chapterId\":\"cmvdp7fj6032lz20jqk6myad2\",\"content\":\"Learn More\",\"btnColor\":\"#4f46e5\",\"color\":\"#fff\",\"linkTxt\":\"https://supademo.com\",\"isLinkExternal\":true,\"openInNewTab\":true,\"animation\":\"Ripple\",\"order\":0,\"isBold\":true,\"isItalic\":false}],\"formFields\":[]},\"customBackgroundMusic\":[],\"customFonts\":[],\"darkmode\":false,\"font\":\"Default\",\"hotspotAnimationVisible\":true,\"hotspotBackBtnBgColor\":null,\"hotspotBackBtnDisabled\":false,\"hotspotBackBtnText\":null,\"hotspotBackBtnTextColor\":null,\"hotspotBackdrop\":null,\"hotspotBorderRadius\":\"Round\",\"hotspotNextBtn\":true,\"hotspotNextBtnBgColor\":null,\"hotspotNextBtnDisabled\":false,\"hotspotNextBtnText\":null,\"hotspotNextBtnTextColor\":null,\"hotspotOpacity\":\"100\",\"hotspotTextVisible\":true,\"hotspotWidth\":\"Medium\",\"hotspottextcolor\":\"#fff\",\"introChapter\":{\"id\":\"cmvdp7fkg032oz20jsicxj7ye\",\"createdAt\":\"2026-10-18T10:44:19.985Z\",\"updatedAt\":\"2026-10-18T10:44:19.985Z\",\"stepId\":null,\"workspaceId\":null,\"routeVersionId\":null,\"agentIntroVersionId\":null,\"enabled\":true,\"type\":\"Link\",\"password\":null,\"skip\":false,\"heading\":\"Create a Supademo in minutes\",\"description\":\"Here's a description of the Supademo\",\"theme\":\"Dark\",\"layout\":\"Left\",\"coverImageType\":\"STEP\",\"coverImageSource\":null,\"logoEnabled\":true,\"logoSource\":\"/supademo_logo.svg\",\"logoAltText\":null,\"emailValidationMode\":\"CompanyEmail\",\"emailDomainList\":null,\"phoneValidationEnabled\":false,\"labelledFormEnabled\":false,\"embedCode\":null,\"blurIntensity\":24,\"headingColor\":\"#fff\",\"descriptionColor\":\"#fff\",\"backgroundId\":null,\"interestScreenColumnLabels\":null,\"integrationConfig\":null,\"background\":null,\"buttons\":[{\"id\":\"cmvdp7fkz032qz20jpxpmldz4\",\"createdAt\":\"2026-10-18T10:44:20.003Z\",\"updatedAt\":\"2026-10-18T10:44:20.003Z\",\"chapterId\":\"cmvdp7fkg032oz20jsicxj7ye\",\"content\":\"Get Started\",\"btnColor\":\"#4f46e5\",\"color\":\"#fff\",\"linkTxt\":null,\"isLinkExternal\":false,\"openInNewTab\":true,\"animation\":\"Ripple\",\"order\":0,\"isBold\":true,\"isItalic\":false}],\"formFields\":[]},\"progressbar\":true,\"selectedCustomFontId\":null,\"showSteps\":false,\"showFullscreenButton\":true,\"showReplayButton\":true,\"showSupademoLink\":true,\"topBar\":true}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/custom-domain",
+    "postData": null,
+    "body": "{\"workspace\":{\"customDomainEnabled\":false,\"customDomainLandingPage\":\"https://app.supademo.com\",\"subDomain\":null}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/general",
+    "postData": null,
+    "body": "{\"workspace\":{\"autoJoinTeam\":true,\"enterpriseId\":null,\"invoiceEmail\":false,\"linkViewNotifications\":true,\"monthlyStatsEmail\":true,\"name\":\"My Company\",\"seoAuthor\":true,\"seoDescription\":true,\"seoIndexable\":true},\"user\":{\"userSettings\":null}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/members",
+    "postData": null,
+    "body": "{\"allowedInviteRoles\":[\"Admin\",\"Creator\",\"Admin_Lite\",\"Viewer\"],\"canInviteMembers\":true,\"canManageMembers\":true,\"isEnterprise\":false,\"members\":[{\"role\":\"Admin\",\"status\":\"Active\",\"user\":{\"email\":\"powlowskijoshuah@gmail.com\",\"id\":\"cmvdp0in002du0m0jhvgppgal\",\"image\":\"https://lh3.googleusercontent.com/a/ACg8ocJv3aiQ6pGH20Te9Xb1iR8mEIBQmcImsyOjIFUCxFNcPHrexw=s96-c\",\"name\":\"Joshuah Powlowski\"}}],\"summary\":{\"admins\":1,\"billingAdmins\":0,\"contributors\":0,\"creators\":0,\"freeSeats\":0,\"paidSeats\":1,\"total\":1,\"viewers\":0},\"workspace\":{\"enableCreatorsToInvite\":true,\"id\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"inTrial\":true,\"name\":\"My Company\",\"permissions\":[{\"role\":\"Admin\",\"status\":\"Active\",\"user\":{\"email\":\"powlowskijoshuah@gmail.com\",\"id\":\"cmvdp0in002du0m0jhvgppgal\",\"image\":\"https://lh3.googleusercontent.com/a/ACg8ocJv3aiQ6pGH20Te9Xb1iR8mEIBQmcImsyOjIFUCxFNcPHrexw=s96-c\",\"name\":\"Joshuah Powlowski\"}}],\"plan\":\"Growth\"}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/members/invitations",
+    "postData": null,
+    "body": "{\"invitations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/members/requests",
+    "postData": null,
+    "body": "{\"requests\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/api",
+    "postData": null,
+    "body": "{\"workspace\":{\"apiKeys\":[]}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/connected-apps",
+    "postData": null,
+    "body": "{\"tokens\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/security",
+    "postData": null,
+    "body": "{\"workspace\":{\"enhanceWithAI\":true,\"trackingEnabled\":true}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/pages/demo-versioning",
+    "postData": null,
+    "body": "{\"workspace\":{\"demoVersioningEnabled\":false,\"publishRestricted\":false,\"canEnableDemoVersioning\":true,\"publishableMembers\":[{\"id\":\"cmvdp0in002du0m0jhvgppgal\",\"email\":\"powlowskijoshuah@gmail.com\",\"image\":\"https://lh3.googleusercontent.com/a/ACg8ocJv3aiQ6pGH20Te9Xb1iR8mEIBQmcImsyOjIFUCxFNcPHrexw=s96-c\",\"name\":\"Joshuah Powlowski\",\"role\":\"Admin\",\"canPublish\":false}]}}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/tags",
+    "postData": null,
+    "body": "{\"tags\":[{\"id\":\"cmvdp7fnr032vz20jolwj21zh\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Getting Started\",\"color\":\"#93c5fd\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032uz20j4zh1q6pu\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"New Hire\",\"color\":\"#60a5fa\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}},{\"id\":\"cmvdp7fnr032tz20jpypswy8z\",\"createdAt\":\"2026-10-18T10:44:20.056Z\",\"updatedAt\":\"2026-10-18T10:44:20.056Z\",\"name\":\"Onboarding\",\"color\":\"#3b82f6\",\"workspaceId\":\"cmvdp7fhn032iz20jmc2ygn7z\",\"_count\":{\"demos\":0,\"showcases\":0}}]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/workspace/settings/terminology",
+    "postData": null,
+    "body": "{\"entries\":[]}"
+  },
+  {
+    "method": "GET",
+    "status": 200,
+    "url": "https://app.supademo.com/api/command/conversations",
+    "postData": null,
+    "body": "{\"conversations\":[]}"
+  }
+]

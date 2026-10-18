@@ -1,0 +1,333 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model User {
+  id                  String   @id @default(cuid())
+  email               String   @unique
+  name                String?
+  passwordHash        String?
+  role                String   @default("CREATOR") // ADMIN | CREATOR | BILLING_ADMIN | VIEWER
+  status              String   @default("ACTIVE")  // ACTIVE | DISABLED
+  avatarUrl           String?
+  jobTitle            String?
+  onboardingCompleted Boolean  @default(false)
+  onboardingStage     String   @default("role")
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  memberships         WorkspaceMember[]
+  createdInvitations  Invitation[]      @relation("CreatedInvitations")
+  acceptedInvitation  Invitation?       @relation("AcceptedInvitation")
+  auditLogs           AuditLog[]        @relation("ActorAuditLogs")
+  createdDemos        Demo[]
+}
+
+model Invitation {
+  id               String    @id @default(cuid())
+  tokenHash        String    @unique
+  invitedEmail     String
+  role             String    @default("CREATOR") // ADMIN | CREATOR | BILLING_ADMIN | VIEWER
+  status           String    @default("PENDING") // PENDING | ACCEPTED | REVOKED | EXPIRED
+  workspaceId      String?
+  expiresAt        DateTime
+  usedAt           DateTime?
+  revokedAt        DateTime?
+  createdByUserId  String
+  createdBy        User      @relation("CreatedInvitations", fields: [createdByUserId], references: [id], onDelete: Cascade)
+  acceptedByUserId String?   @unique
+  acceptedBy       User?     @relation("AcceptedInvitation", fields: [acceptedByUserId], references: [id], onDelete: SetNull)
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+
+  @@index([invitedEmail])
+  @@index([status, expiresAt])
+}
+
+model AuditLog {
+  id           String   @id @default(cuid())
+  workspaceId  String?
+  actorUserId  String?
+  actor        User?    @relation("ActorAuditLogs", fields: [actorUserId], references: [id], onDelete: SetNull)
+  actorEmail   String?
+  action       String
+  targetType   String?
+  targetId     String?
+  metadataJson String   @default("{}")
+  ipAddress    String?
+  createdAt    DateTime @default(now())
+
+  @@index([action, createdAt])
+  @@index([workspaceId, createdAt])
+}
+
+model Workspace {
+  id                     String   @id @default(cuid())
+  name                   String
+  slug                   String   @unique
+  plan                   String   @default("GROWTH_TRIAL") // FREE | SCALE | BUSINESS | GROWTH | GROWTH_TRIAL | ENTERPRISE
+  trialEndsAt            DateTime?
+  dataRegion             String   @default("USWest2")
+  aiCreditsRemaining     Int      @default(1500)
+  inviteShareToken       String   @default("I5rirEXZv6jBxnH5KSBorH8jqXm_DuWZ")
+  brandSettingsJson      String   @default("{}")
+  playerSettingsJson     String   @default("{}")
+  customDomainJson       String   @default("{}")
+  generalSettingsJson    String   @default("{}")
+  securitySettingsJson   String   @default("{}")
+  versioningSettingsJson String   @default("{}")
+  integrationsJson       String   @default("[]")
+  pronunciationsJson     String   @default("[]")
+  apiKeysJson            String   @default("[]")
+  checklistJson          String   @default("{}")
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  members         WorkspaceMember[]
+  folders         Folder[]
+  tags            Tag[]
+  demos           Demo[]
+  videos          VideoRecording[]
+  agents          AiAgent[]
+  showcases       Showcase[]
+  hubs            DemoHub[]
+  routes          RouteHub[]
+  analyticsEvents AnalyticsEvent[]
+  leads           LeadCapture[]
+}
+
+model WorkspaceMember {
+  id          String    @id @default(cuid())
+  workspaceId String
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  role        String    @default("CREATOR") // ADMIN | CREATOR | BILLING_ADMIN | VIEWER
+  joinedAt    DateTime  @default(now())
+
+  @@unique([workspaceId, userId])
+}
+
+model Folder {
+  id          String    @id @default(cuid())
+  workspaceId String
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  name        String
+  scope       String    @default("TEAM") // TEAM | PERSONAL | VIDEO
+  color       String    @default("#4F46E5")
+  createdAt   DateTime  @default(now())
+
+  demos  Demo[]
+  videos VideoRecording[]
+}
+
+model Tag {
+  id          String    @id @default(cuid())
+  workspaceId String
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  name        String
+  color       String    @default("#6366F1")
+  usageCount  Int       @default(0)
+  createdAt   DateTime  @default(now())
+}
+
+model Demo {
+  id                String    @id @default(cuid())
+  workspaceId       String
+  workspace         Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  folderId          String?
+  folder            Folder?   @relation(fields: [folderId], references: [id], onDelete: SetNull)
+  creatorId         String?
+  creator           User?     @relation(fields: [creatorId], references: [id], onDelete: SetNull)
+  title             String
+  description       String    @default("")
+  type              String    @default("UPLOAD")  // EXTENSION | UPLOAD | HTML | SANDBOX | AI_COMMAND
+  scope             String    @default("TEAM")    // TEAM | PERSONAL | ARCHIVED
+  visibility        String    @default("PUBLIC")  // PUBLIC | WORKSPACE | PASSWORD
+  password          String?
+  status            String    @default("PUBLISHED") // DRAFT | PUBLISHED
+  backgroundStyle   String    @default("linear-gradient(135deg, #1E1B4B 0%, #312E81 50%, #4F46E5 100%)")
+  aspectRatio       String    @default("16:9")
+  hideBrowserBar    Boolean   @default(false)
+  darkMode          Boolean   @default(false)
+  autoplay          Boolean   @default(false)
+  autoplayDelaySec  Int       @default(4)
+  voiceoverEnabled  Boolean   @default(true)
+  defaultVoiceId    String    @default("Tyler")
+  language          String    @default("en-US")
+  variablesJson     String    @default("[]")
+  tagsJson          String    @default("[]")
+  viewsCount        Int       @default(0)
+  engagedViewsCount Int       @default(0)
+  completionRate    Int       @default(78)
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+
+  steps    DemoStep[]
+  versions DemoVersion[]
+  comments DemoComment[]
+}
+
+model DemoStep {
+  id              String   @id @default(cuid())
+  demoId          String
+  demo            Demo     @relation(fields: [demoId], references: [id], onDelete: Cascade)
+  orderIndex      Int
+  stepType        String   @default("IMAGE") // CHAPTER | IMAGE | VIDEO | HTML
+  title           String
+  subtitle        String   @default("")
+  mediaUrl        String   @default("")
+  htmlContent     String   @default("")
+  hotspotJson     String   @default("{}")
+  annotationsJson String   @default("[]")
+  voiceoverJson   String   @default("{}")
+  animationJson   String   @default("{}")
+  chapterJson     String   @default("{}")
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@index([demoId, orderIndex])
+}
+
+model DemoVersion {
+  id                String   @id @default(cuid())
+  demoId            String
+  demo              Demo     @relation(fields: [demoId], references: [id], onDelete: Cascade)
+  versionNumber     Int
+  label             String
+  status            String   @default("PUBLISHED")
+  stepsSnapshotJson String   @default("[]")
+  authorName        String   @default("Workspace Admin")
+  createdAt         DateTime @default(now())
+}
+
+model DemoComment {
+  id          String   @id @default(cuid())
+  demoId      String
+  demo        Demo     @relation(fields: [demoId], references: [id], onDelete: Cascade)
+  stepIndex   Int      @default(0)
+  authorName  String
+  authorEmail String
+  body        String
+  resolved    Boolean  @default(false)
+  createdAt   DateTime @default(now())
+}
+
+model VideoRecording {
+  id              String    @id @default(cuid())
+  workspaceId     String
+  workspace       Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  folderId        String?
+  folder          Folder?   @relation(fields: [folderId], references: [id], onDelete: SetNull)
+  title           String
+  description     String    @default("")
+  durationSec     Int       @default(95)
+  scope           String    @default("TEAM") // TEAM | PERSONAL | ARCHIVED
+  thumbnailUrl    String    @default("")
+  videoUrl        String    @default("")
+  viewsCount      Int       @default(0)
+  convertedDemoId String?
+  createdAt       DateTime  @default(now())
+}
+
+model AiAgent {
+  id                String    @id @default(cuid())
+  workspaceId       String
+  workspace         Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  name              String
+  slug              String    @unique
+  status            String    @default("LIVE") // DRAFT | LIVE
+  creditsUsed       Int       @default(45)
+  readinessScore    Int       @default(92)
+  identityJson      String    @default("{}")
+  interfaceJson     String    @default("{}")
+  guardrailsJson    String    @default("{}")
+  quickLinksJson    String    @default("[]")
+  securityJson      String    @default("{}")
+  knowledgeBaseJson String    @default("{}")
+  monitorJson       String    @default("{}")
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+}
+
+model Showcase {
+  id           String    @id @default(cuid())
+  workspaceId  String
+  workspace    Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  title        String
+  description  String    @default("")
+  theme        String    @default("SIDEBAR") // TOP_BAR | SIDEBAR
+  status       String    @default("PUBLISHED")
+  ctaText      String    @default("Book a Live Demo")
+  ctaUrl       String    @default("https://supademo.com/enterprise")
+  sectionsJson String    @default("[]")
+  viewsCount   Int       @default(0)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+}
+
+model DemoHub {
+  id             String    @id @default(cuid())
+  workspaceId    String
+  workspace      Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  name           String
+  status         String    @default("PUBLISHED")
+  appearanceJson String    @default("{}")
+  contentJson    String    @default("{}")
+  installJson    String    @default("{}")
+  viewsCount     Int       @default(0)
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+}
+
+model RouteHub {
+  id               String    @id @default(cuid())
+  workspaceId      String
+  workspace        Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  name             String
+  entryMode        String    @default("BOTH") // COLLECT_LEADS | QUALIFY_INTENT | BOTH
+  status           String    @default("PUBLISHED")
+  styleJson        String    @default("{}")
+  nodesJson        String    @default("[]")
+  edgesJson        String    @default("[]")
+  submissionsCount Int       @default(0)
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+}
+
+model AnalyticsEvent {
+  id          String    @id @default(cuid())
+  workspaceId String
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  targetType  String    @default("DEMO") // DEMO | SHOWCASE | HUB | ROUTE | AGENT
+  targetId    String
+  targetTitle String    @default("")
+  eventType   String    @default("VIEW") // VIEW | ENGAGED_VIEW | COMPLETION | CTA_CLICK | LEAD_CAPTURE
+  viewerEmail String?
+  accountName String?
+  os          String    @default("macOS")
+  browser     String    @default("Chrome")
+  country     String    @default("United States")
+  durationSec Int       @default(68)
+  createdAt   DateTime  @default(now())
+}
+
+model LeadCapture {
+  id          String    @id @default(cuid())
+  workspaceId String
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  sourceType  String    @default("DEMO") // DEMO | ROUTE_HUB | AI_AGENT
+  sourceId    String
+  sourceTitle String
+  email       String
+  name        String    @default("")
+  company     String    @default("")
+  role        String    @default("")
+  intent      String    @default("")
+  routedTo    String    @default("")
+  createdAt   DateTime  @default(now())
+}

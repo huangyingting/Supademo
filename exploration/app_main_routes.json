@@ -1,0 +1,1831 @@
+{
+  "20_command": {
+    "finalUrl": "https://app.supademo.com/command",
+    "title": "Supademo | AI Command",
+    "headings": [],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Recents",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "How should I use Supademo?\nThe main use cases and the benefits of each.",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Recap my week\nThis week's demos and showcases against last week.",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Build a demo from uploads\nAttach screenshots or a video, one step per file.",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\n\nLet's automate your demos.\nLet's automate your demos.\n\nOr try one of these prompts out:\n\nHow should I use Supademo?\nThe main use cases and the benefits of each.\nRecap my week\nThis week's demos and showcases against last week.\nBuild a demo from uploads\nAttach screenshots or a video, one step per file.\n\nDrop files to attach"
+  },
+  "21_demos": {
+    "finalUrl": "https://app.supademo.com/demos",
+    "title": "Supademo | Demos",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Team Supademos"
+      },
+      {
+        "tag": "H2",
+        "text": "Create your first demo in minutes"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Help with Team Supademos",
+        "role": null
+      },
+      {
+        "text": "Create",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Shared with Team",
+        "ariaLabel": "Select content type",
+        "role": null
+      },
+      {
+        "text": "Shared with Team",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Personal",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Archived",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Filter",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Sort",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New folder",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "List view",
+        "role": null
+      },
+      {
+        "text": "Create your first demo",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Teach me how",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "Which demo type should I use?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Help organize my workspace",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Find demos to refresh",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nTeam Supademos\nCreate\nSupademos\nScreenshots\nShared with Team\nPersonal\nArchived\nFilter\n\nWelcome, Joshuah👋\n\nCreate your first demo in minutes\n\nEmbed interactive demos that turn website visitors into signups. 50% higher free-to-paid conversion.\n\nCreate your first demo\nTeach me how\nAcme Inc.\nNew message\nTo: joshuah@prospect.com\nSubject: Following up on our call\nHi Joshuah,\nAs promised, here's an interactive website demo of everything we covered:\nInteractive product tour for Joshuah\nExplore in 6 clicks\nNew Chat\n\nWhat are we working on today?\nWhat are we working on today?\n\nWhich demo type should I use?\nHelp organize my workspace\nFind demos to refresh\n\nDrop files to attach"
+  },
+  "22_videos": {
+    "finalUrl": "https://app.supademo.com/videos",
+    "title": "Supademo | Videos",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Videos"
+      },
+      {
+        "tag": "H2",
+        "text": "Video for your website, minus the studio"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Shared with Team",
+        "ariaLabel": "Select content type",
+        "role": null
+      },
+      {
+        "text": "Shared with Team",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Personal",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Archived",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Filter",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Sort",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New folder",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "Video or interactive demo?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Turn a video into a demo",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Organize my videos",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nVideos\nShared with Team\nPersonal\nArchived\nFilter\nVideo for your website, minus the studio\n\nRecord polished product videos to complement your embedded demos.\n\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nVideo or interactive demo?\nTurn a video into a demo\nOrganize my videos\n\nDrop files to attach"
+  },
+  "23_agents": {
+    "finalUrl": "https://app.supademo.com/agents",
+    "title": "Supademo | Demo agents",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "A smarter way to qualify and educate buyers"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Create agent (~75 free calls included)",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Try Instant AI Agent Demo",
+        "ariaLabel": null,
+        "role": "button"
+      },
+      {
+        "text": "Try Instant AI Agent Demo",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "What can a Demo Agent do?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Fix knowledge gaps",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Alert me on qualified leads",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nA smarter way to qualify and educate buyers\n\nAI Demo Agents help revenue teams run discovery, qualify buyers, and surface the right demos, videos, and proof assets in real time in any language, so deals keep moving around the clock. Demo Agents include a one-time grant of 1,500 free usage credits.\n\nCreate agent (~75 free calls included)\nTry Instant AI Agent Demo\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhat can a Demo Agent do?\nFix knowledge gaps\nAlert me on qualified leads\n\nDrop files to attach"
+  },
+  "24_showcases": {
+    "finalUrl": "https://app.supademo.com/showcases",
+    "title": "Supademo | Showcases",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Team Showcases"
+      },
+      {
+        "tag": "H2",
+        "text": "Welcome to Showcases!"
+      },
+      {
+        "tag": "H2",
+        "text": "Curate a gallery for your site"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      },
+      {
+        "text": "Customer Onboarding\n\nSupademo",
+        "href": "https://app.supademo.com/showcase/cm7ghlb6e02axy30idf581qoq?preview=true"
+      },
+      {
+        "text": "Sales Showcase\n\nStrava",
+        "href": "https://strava.supademo.com/showcase/clkwvaf1k2j3szg8xvfy0vr3e?preview=true"
+      },
+      {
+        "text": "Feature Overview\n\nFreshline",
+        "href": "https://app.supademo.com/showcase/clnxj2eqd2k3lpedvp3us3alv?preview=true"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Help with Team Showcases",
+        "role": null
+      },
+      {
+        "text": "Create",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Shared with Team",
+        "ariaLabel": "Select content type",
+        "role": null
+      },
+      {
+        "text": "Shared with Team",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Personal",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Filter",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Sort",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New folder",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "Create",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Explore an example",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "Where should I use showcases?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Build an account showcase",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Find my top showcases",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "SELECT",
+        "type": null,
+        "placeholder": null
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nTeam Showcases\nCreate\nShared with Team\nPersonal\nFilter\nWelcome to Showcases!\n\nShowcases allows you to group together multiple Supademos into a single, shareable URL or embed.\n\nCustomer Onboarding\n\nSupademo\n\nSales Showcase\n\nStrava\n\nFeature Overview\n\nFreshline\n\nCurate a gallery for your site\n\nCombine demos into one embeddable showcase: a product tour visitors can explore.\n\nCreate\nExplore an example\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhere should I use showcases?\nBuild an account showcase\nFind my top showcases\n\nDrop files to attach"
+  },
+  "25_hubs": {
+    "finalUrl": "https://app.supademo.com/hubs",
+    "title": "Supademo | Demo Hub",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Demo Hub"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://docs.supademo.com/share/multi-demo-sharing/demo-hub"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Help with Demo Hub",
+        "role": null
+      },
+      {
+        "text": "Create",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Dismiss",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Watch Tutorial",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Drive adoption by highlighting new features and updates",
+        "ariaLabel": "View Strava example",
+        "role": "button"
+      },
+      {
+        "text": "Consolidate common support tickets into self-paced tutorials",
+        "ariaLabel": "View Freshworks example",
+        "role": "button"
+      },
+      {
+        "text": "Build an engaging learning academy for first-time users",
+        "ariaLabel": "View Typeform example",
+        "role": "button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "When should I use a Demo Hub?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Build a help demo hub",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Get the install code",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nDemo Hub\nGroup Supademos and Showcases into a searchable hub. Learn more\nCreate\nDismiss\nWatch Tutorial\nDrive adoption by highlighting new features and updates\nConsolidate common support tickets into self-paced tutorials\nBuild an engaging learning academy for first-time users\nNew Chat\n\nLet's automate your demos.\nLet's automate your demos.\n\nWhen should I use a Demo Hub?\nBuild a help demo hub\nGet the install code\n\nDrop files to attach"
+  },
+  "26_routes": {
+    "finalUrl": "https://app.supademo.com/routes",
+    "title": "Supademo | Routes",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Welcome to Route Hub"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Try product demo",
+        "ariaLabel": null,
+        "role": "button"
+      },
+      {
+        "text": "Try product demo",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Create",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Read docs",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "When to use a Route Hub?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Pick routing destinations",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Make a persona variant",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nWelcome to Route Hub\n\nRoute Hub helps you deliver the right demos, resources, and next steps to each viewer automatically. Collect info, understand intent, and automatically route them to the right experience using one smart link.\n\nTry product demo\nCreate\nRead docs\nNew Chat\n\nWhat are we working on today?\nWhat are we working on today?\n\nWhen to use a Route Hub?\nPick routing destinations\nMake a persona variant\n\nDrop files to attach"
+  },
+  "27_analytics": {
+    "finalUrl": "https://app.supademo.com/analytics",
+    "title": "Supademo | Analytics",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Analytics"
+      },
+      {
+        "tag": "H2",
+        "text": "Supademo Views"
+      },
+      {
+        "tag": "H3",
+        "text": "Start creating Supademos to see analytics"
+      },
+      {
+        "tag": "H3",
+        "text": "No recent viewers"
+      },
+      {
+        "tag": "H2",
+        "text": "Most Viewed"
+      },
+      {
+        "tag": "H3",
+        "text": "Start creating Supademos to see analytics"
+      },
+      {
+        "tag": "H2",
+        "text": "Device & Location"
+      },
+      {
+        "tag": "H3",
+        "text": "No OS data yet"
+      },
+      {
+        "tag": "H3",
+        "text": "No browser data yet"
+      },
+      {
+        "tag": "H3",
+        "text": "No location data yet"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main-content"
+      },
+      {
+        "text": "Home",
+        "href": "/home"
+      },
+      {
+        "text": "AI Command",
+        "href": "/command"
+      },
+      {
+        "text": "Supademos",
+        "href": "/demos"
+      },
+      {
+        "text": "Videos",
+        "href": "/videos"
+      },
+      {
+        "text": "Demo agents\nFree credits",
+        "href": "/agents"
+      },
+      {
+        "text": "Showcases",
+        "href": "/showcases"
+      },
+      {
+        "text": "Demo hubs",
+        "href": "/hubs"
+      },
+      {
+        "text": "Route hubs\nNew",
+        "href": "/routes"
+      },
+      {
+        "text": "Analytics",
+        "href": "/analytics"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "My Company\nGrowth\n•\nAdmin",
+        "ariaLabel": "Switch workspace",
+        "role": null
+      },
+      {
+        "text": "Email",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Meet",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Dismiss demo specialist card",
+        "role": null
+      },
+      {
+        "text": "Upgrade",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Open navigation",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Settings",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Notifications",
+        "role": null
+      },
+      {
+        "text": "Search...\n⌘K",
+        "ariaLabel": "Search...",
+        "role": null
+      },
+      {
+        "text": "Earn $200",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Invite members",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Supademo Analytics",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Showcase Analytics",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "More actions",
+        "role": null
+      },
+      {
+        "text": "Filters",
+        "ariaLabel": null,
+        "role": "button"
+      },
+      {
+        "text": "Sep 19 - Oct 18, 26",
+        "ariaLabel": "Date range: Sep 19 - Oct 18, 26",
+        "role": null
+      },
+      {
+        "text": "Create Supademo",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Learn more",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Recent Viewers",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Recent Accounts",
+        "ariaLabel": null,
+        "role": "tab"
+      },
+      {
+        "text": "Create Supademo",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Learn more",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "AI Command",
+        "role": null
+      },
+      {
+        "text": "New Chat",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "New chat",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Placement",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Fullscreen",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Close",
+        "role": null
+      },
+      {
+        "text": "How do I improve my demos?",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Check step engagement",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "Show my hottest leads",
+        "ariaLabel": null,
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Attach files",
+        "role": null
+      },
+      {
+        "text": "",
+        "ariaLabel": "Send message",
+        "role": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": "Ask a product question or give a command"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null
+      }
+    ],
+    "bodyText": "Skip to main content\nMy Company\nGrowth\n•\nAdmin\nHome\nAI Command\n\nCreate\n\nSupademos\nVideos\nDemo agents\nFree credits\n\nShare\n\nShowcases\nDemo hubs\nRoute hubs\nNew\n\nMeasure\n\nAnalytics\n\nConnect with a demo expert\n\nEmail\nMeet\nGrowth trial\nUpgrade\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nSearch...\n⌘K\nEarn $200\nInvite members\nAnalytics\nSupademo Analytics\nShowcase Analytics\nFilters\nSep 19 - Oct 18, 26\nSupademo Views\nStart creating Supademos to see analytics\n\nSupademo view analytics will appear here once your Supademos start receiving views.\n\nCreate Supademo\nLearn more\nRecent Viewers\nRecent Accounts\nNo recent viewers\n\nViewers will appear here once leads interact with your demos via trackable share links or forms.\n\nMost Viewed\nStart creating Supademos to see analytics\n\nSupademo analytics will appear here once you create Supademos and they start receiving views.\n\nCreate Supademo\nLearn more\nDevice & Location\nNo OS data yet\n\nOperating system analytics will appear here once you start receiving views.\n\nNo browser data yet\n\nBrowser analytics will appear here once you start receiving views.\n\nNo location data yet\n\nGeographic analytics will appear here once you start receiving views from different locations.\n\nNew Chat\n\nAsk me anything about your workspace.\nAsk me anything about your workspace.\n\nHow do I improve my demos?\nCheck step engagement\nShow my hottest leads\n\nDrop files to attach"
+  }
+}

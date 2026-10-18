@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Supademo Interactive Demo & HTML Recorder",
+  "version": "1.0.0",
+  "description": "Record click-by-click screenshots, hotspot coordinates, and DOM snapshots directly into your self-hosted Supademo workspace.",
+  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Supademo Recorder"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
